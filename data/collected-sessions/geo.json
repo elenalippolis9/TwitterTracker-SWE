@@ -1,0 +1,4782 @@
+{
+  "query": {},
+  "tweetChunks": [
+    {
+      "tweets": [
+        {
+          "created_at": "Fri Dec 04 20:17:51 +0000 2020",
+          "text": "Ещё по одной (@ свободная рюмочная in Санкт-Петербург) https://t.co/UH5QeRSzxV https://t.co/HmstG8JVRa",
+          "type": "T",
+          "embedLink": "twitter.com/djakonov/status/1334955094761218050",
+          "tweetLink": "twitter.com/i/web/status/1334955094761218050",
+          "profileImg": "https://pbs.twimg.com/profile_images/766872294023200768/i8v8rJ9p_normal.jpg",
+          "username": "Михаил Дьяконов:djakonov",
+          "place": {
+            "name": "Санкт-Петербург",
+            "full_name": "Санкт-Петербург, Россия",
+            "country_code": "RU",
+            "country": "Россия"
+          },
+          "geo": [
+            30.321498,
+            59.936292
+          ],
+          "imgLink": [
+            "https://pbs.twimg.com/media/Eoa2lZwXIAES1Eg.jpg"
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 20:18:19 +0000 2020",
+          "text": "Acabou de publicar uma foto em Ed The Office Tower https://t.co/uJbEZtT2qQ",
+          "type": "T",
+          "embedLink": "twitter.com/AfonsoMeneses3/status/1334955212738494465",
+          "tweetLink": "twitter.com/i/web/status/1334955212738494465",
+          "profileImg": "https://pbs.twimg.com/profile_images/1230647279738064896/Sei8anoF_normal.jpg",
+          "username": "Afonso Meneses:AfonsoMeneses3",
+          "place": {
+            "name": "Teresina",
+            "full_name": "Teresina, Brasil",
+            "country_code": "BR",
+            "country": "Brasil"
+          },
+          "geo": [
+            -42.78897307,
+            -5.07500106
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 20:18:32 +0000 2020",
+          "text": "Just posted a photo @ Sunset North, Phoenix, Arizona https://t.co/RUnyvui7HZ",
+          "type": "T",
+          "embedLink": "twitter.com/sugarbites21/status/1334955267264548866",
+          "tweetLink": "twitter.com/i/web/status/1334955267264548866",
+          "profileImg": "https://pbs.twimg.com/profile_images/718538388740055040/f-Ah_e-O_normal.jpg",
+          "username": "SugarbitesBeauty:sugarbites21",
+          "place": {
+            "name": "Phoenix",
+            "full_name": "Phoenix, AZ",
+            "country_code": "US",
+            "country": "United States"
+          },
+          "geo": [
+            -112.08030305,
+            33.62289005
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 20:19:38 +0000 2020",
+          "text": "Just posted a photo @ Saints Felicitas &amp; Perpetua School https://t.co/RsB6znHavM",
+          "type": "T",
+          "embedLink": "twitter.com/SSFPSchool/status/1334955543992078338",
+          "tweetLink": "twitter.com/i/web/status/1334955543992078338",
+          "profileImg": "https://pbs.twimg.com/profile_images/1027694561705906176/9y9MdmrH_normal.jpg",
+          "username": "SSFP School:SSFPSchool",
+          "place": {
+            "name": "San Marino",
+            "full_name": "San Marino, CA",
+            "country_code": "US",
+            "country": "United States"
+          },
+          "geo": [
+            -118.09252,
+            34.12743
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 20:19:44 +0000 2020",
+          "text": "I'm at 五井駅 in 市原市, 千葉県 https://t.co/JT5hAE944C https://t.co/VrOKGouMLo",
+          "type": "T",
+          "embedLink": "twitter.com/fk0301/status/1334955568533004290",
+          "tweetLink": "twitter.com/i/web/status/1334955568533004290",
+          "profileImg": "https://pbs.twimg.com/profile_images/1005545450173186048/ugC8IvR__normal.jpg",
+          "username": "fujihiro kinoshita:fk0301",
+          "place": {
+            "name": "市原市",
+            "full_name": "千葉 市原市",
+            "country_code": "JP",
+            "country": "日本"
+          },
+          "geo": [
+            140.08966327,
+            35.51323404
+          ],
+          "imgLink": [
+            "https://pbs.twimg.com/media/Eoa3A7HXUAcqKWg.jpg"
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 20:20:11 +0000 2020",
+          "text": "Just posted a photo @ Mamta Travels &amp; Caterers PATNA +919471888888 https://t.co/1OW5Cc3QAZ",
+          "type": "T",
+          "embedLink": "twitter.com/SanjeevSinhaPat/status/1334955682542604292",
+          "tweetLink": "twitter.com/i/web/status/1334955682542604292",
+          "profileImg": "https://pbs.twimg.com/profile_images/2863826397/6e2cb4db3adb3affbd8b4e8199bd0d0a_normal.jpeg",
+          "username": "SANJEEV SINHA 9430000011 MAMTA TRAVELS:SanjeevSinhaPat",
+          "place": {
+            "name": "Patna",
+            "full_name": "Patna, India",
+            "country_code": "IN",
+            "country": "India"
+          },
+          "geo": [
+            85.12528878,
+            25.615948
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 20:20:17 +0000 2020",
+          "text": "Acaba de publicar una foto en Ecoplaza Centro Comercial https://t.co/yP0A2ZeSYu",
+          "type": "T",
+          "embedLink": "twitter.com/EcoplazaCC/status/1334955707679051778",
+          "tweetLink": "twitter.com/i/web/status/1334955707679051778",
+          "profileImg": "https://pbs.twimg.com/profile_images/1334270503889022976/ZSYuiADI_normal.jpg",
+          "username": "Ecoplaza:EcoplazaCC",
+          "place": {
+            "name": "Funza",
+            "full_name": "Funza, Colombia",
+            "country_code": "CO",
+            "country": "Colombia"
+          },
+          "geo": [
+            -74.22155785,
+            4.71281027
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 20:20:20 +0000 2020",
+          "text": "Just posted a photo @ Tapistry Brewing https://t.co/A8c7zVQzzH",
+          "type": "T",
+          "embedLink": "twitter.com/TapistryBrewing/status/1334955720236740608",
+          "tweetLink": "twitter.com/i/web/status/1334955720236740608",
+          "profileImg": "https://pbs.twimg.com/profile_images/2939104866/ce1ad5dd483f42cdf426d74dd7d9729c_normal.png",
+          "username": "Tapistry Brewing:TapistryBrewing",
+          "place": {
+            "name": "Bridgman",
+            "full_name": "Bridgman, MI",
+            "country_code": "US",
+            "country": "United States"
+          },
+          "geo": [
+            -86.555846,
+            41.942778
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 20:20:44 +0000 2020",
+          "text": "Just posted a photo @ Roseville, California https://t.co/tFITbqzTAC",
+          "type": "T",
+          "embedLink": "twitter.com/MermanThommy/status/1334955821051023368",
+          "tweetLink": "twitter.com/i/web/status/1334955821051023368",
+          "profileImg": "https://pbs.twimg.com/profile_images/1279483096648183808/P8l0v-_T_normal.jpg",
+          "username": "MermanThommy:MermanThommy",
+          "place": {
+            "name": "Roseville",
+            "full_name": "Roseville, CA",
+            "country_code": "US",
+            "country": "United States"
+          },
+          "geo": [
+            -121.289,
+            38.7524
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 20:21:53 +0000 2020",
+          "text": "Just posted a photo @ Portland Road https://t.co/TAwsNFMEL1",
+          "type": "T",
+          "embedLink": "twitter.com/stanleyxxxx/status/1334956110466396160",
+          "tweetLink": "twitter.com/i/web/status/1334956110466396160",
+          "profileImg": "https://pbs.twimg.com/profile_images/727396945/alfred_normal.jpg",
+          "username": "Anthony Whittingham:stanleyxxxx",
+          "place": {
+            "name": "Hove",
+            "full_name": "Hove, England",
+            "country_code": "GB",
+            "country": "United Kingdom"
+          },
+          "geo": [
+            -0.18738124,
+            50.83353235
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 20:22:06 +0000 2020",
+          "text": "Just posted a photo @ Aware Meditation &amp; Yoga https://t.co/VC4tmBbpre",
+          "type": "T",
+          "embedLink": "twitter.com/Awaremeditation/status/1334956164795289600",
+          "tweetLink": "twitter.com/i/web/status/1334956164795289600",
+          "profileImg": "https://pbs.twimg.com/profile_images/1176246409172934656/Ltvj2IRb_normal.jpg",
+          "username": "Awaremeditation:Awaremeditation",
+          "place": {
+            "name": "Los Angeles",
+            "full_name": "Los Angeles, CA",
+            "country_code": "US",
+            "country": "United States"
+          },
+          "geo": [
+            -118.42521,
+            34.1484499
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 20:54:00 +0000 2020",
+          "text": "Hat gerade ein Foto gepostet @ Mühlhausen, Thuringen, Germany https://t.co/gf3VAO105F",
+          "type": "T",
+          "embedLink": "twitter.com/Saturn999de/status/1334964192969887744",
+          "tweetLink": "twitter.com/i/web/status/1334964192969887744",
+          "profileImg": "https://pbs.twimg.com/profile_images/990357044237668352/adq2n2sU_normal.jpg",
+          "username": "Colin Warner:Saturn999de",
+          "place": {
+            "name": "Mühlhausen/Thüringen",
+            "full_name": "Mühlhausen/Thüringen, Deutschland",
+            "country_code": "DE",
+            "country": "Deutschland"
+          },
+          "geo": [
+            10.45,
+            51.2167
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 20:54:56 +0000 2020",
+          "text": "I am looking for a buyer for 400 Leslie Dr #414 #Hallandale #FL  #realestate https://t.co/KQMhZHPZvf https://t.co/FQtQSCtZ2p",
+          "type": "T",
+          "embedLink": "twitter.com/ellenagnesremax/status/1334964425141460992",
+          "tweetLink": "twitter.com/i/web/status/1334964425141460992",
+          "profileImg": "https://pbs.twimg.com/profile_images/1060260093743124480/YNlX2nDB_normal.jpg",
+          "username": "@agnesgrayrealtor:ellenagnesremax",
+          "place": {
+            "name": "Hallandale Beach",
+            "full_name": "Hallandale Beach, FL",
+            "country_code": "US",
+            "country": "United States"
+          },
+          "geo": [
+            -80.1212041,
+            25.9923927
+          ],
+          "imgLink": [
+            "https://pbs.twimg.com/media/Eoa_EUIXcAQKcH2.jpg"
+          ],
+          "hashtags": [
+            "Hallandale",
+            "FL",
+            "realestate"
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 20:56:02 +0000 2020",
+          "text": "Just posted a photo @ Rotofugi Designer Toy Store &amp; Gallery https://t.co/2njkUjwUoY",
+          "type": "T",
+          "embedLink": "twitter.com/rotofugi/status/1334964704440152066",
+          "tweetLink": "twitter.com/i/web/status/1334964704440152066",
+          "profileImg": "https://pbs.twimg.com/profile_images/560787524210016256/RjnNs-EH_normal.jpeg",
+          "username": "rotofugi:rotofugi",
+          "place": {
+            "name": "Chicago",
+            "full_name": "Chicago, IL",
+            "country_code": "US",
+            "country": "United States"
+          },
+          "geo": [
+            -87.65852,
+            41.93225
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 20:56:26 +0000 2020",
+          "text": "Acabou de publicar uma foto em São Luis, Maranhão https://t.co/hFAjbY4iJj",
+          "type": "T",
+          "embedLink": "twitter.com/casadogas/status/1334964805183148032",
+          "tweetLink": "twitter.com/i/web/status/1334964805183148032",
+          "profileImg": "https://pbs.twimg.com/profile_images/1301353484072218624/RX6wEA_k_normal.jpg",
+          "username": "CASA DO GÁS:casadogas",
+          "place": {
+            "name": "São Luís",
+            "full_name": "São Luís, Brasil",
+            "country_code": "BR",
+            "country": "Brasil"
+          },
+          "geo": [
+            -44.2992,
+            -2.5333
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 20:56:37 +0000 2020",
+          "text": "Just posted a photo @ Las Vegas, Nevada https://t.co/w0KIPAL3bR",
+          "type": "T",
+          "embedLink": "twitter.com/only1sirjones/status/1334964851328884740",
+          "tweetLink": "twitter.com/i/web/status/1334964851328884740",
+          "profileImg": "https://pbs.twimg.com/profile_images/983015164067876864/XPm38CSz_normal.jpg",
+          "username": "Sir Jones Media + PR:only1sirjones",
+          "place": {
+            "name": "Las Vegas",
+            "full_name": "Las Vegas, NV",
+            "country_code": "US",
+            "country": "United States"
+          },
+          "geo": [
+            -115.149,
+            36.1675
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 20:56:49 +0000 2020",
+          "text": "La Guadalupana. Hilaza de algodón. Tamaño: 20 cm.\n\nPatrón base: Telares y manualidades\n\n#LosTejidosDeLaTíaCecilia… https://t.co/yuqOrmg2nc",
+          "type": "T",
+          "embedLink": "twitter.com/Chris_escorcia/status/1334964901543022592",
+          "tweetLink": "twitter.com/i/web/status/1334964901543022592",
+          "profileImg": "https://pbs.twimg.com/profile_images/1232881484219998208/7BR_L0rm_normal.jpg",
+          "username": "Christian Escorcia:Chris_escorcia",
+          "place": {
+            "name": "Cuauhtémoc",
+            "full_name": "Cuauhtémoc, Distrito Federal",
+            "country_code": "MX",
+            "country": "México"
+          },
+          "geo": [
+            -99.1332,
+            19.4326
+          ],
+          "hashtags": [
+            "LosTejidosDeLaTíaCecilia"
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 20:57:08 +0000 2020",
+          "text": "Nové hlášení: Černá skládka - Praha 10 https://t.co/UEuSKtrWer https://t.co/0wRiDWkPZZ",
+          "type": "T",
+          "embedLink": "twitter.com/ZmapujTo/status/1334964981004165120",
+          "tweetLink": "twitter.com/i/web/status/1334964981004165120",
+          "profileImg": "https://pbs.twimg.com/profile_images/854448366952042497/oidi7XvT_normal.jpg",
+          "username": "ZmapujTo:ZmapujTo",
+          "place": {
+            "name": "Praha",
+            "full_name": "Praha, Česká republika",
+            "country_code": "CZ",
+            "country": "Česká republika"
+          },
+          "geo": [
+            14.478573,
+            50.061313
+          ],
+          "imgLink": [
+            "https://pbs.twimg.com/media/Eoa_kyvW8AEPnru.jpg"
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 20:57:11 +0000 2020",
+          "text": "Just posted a photo @ Trinidad and Tobago https://t.co/IMnjJmVHwN",
+          "type": "T",
+          "embedLink": "twitter.com/RN_RichardNoel/status/1334964994010705921",
+          "tweetLink": "twitter.com/i/web/status/1334964994010705921",
+          "profileImg": "https://pbs.twimg.com/profile_images/1016454360912596993/QcSghCh-_normal.jpg",
+          "username": "Richard Noel:RN_RichardNoel",
+          "place": {
+            "name": "Trinidad and Tobago",
+            "full_name": "Trinidad and Tobago",
+            "country_code": "TT",
+            "country": "Trinidad and Tobago"
+          },
+          "geo": [
+            -61.51666667,
+            10.66666667
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 20:58:06 +0000 2020",
+          "text": "Just posted a photo @ Copperfield, Brentwood, Tennessee https://t.co/uWGBMYBxEf",
+          "type": "T",
+          "embedLink": "twitter.com/emh2625/status/1334965224483516416",
+          "tweetLink": "twitter.com/i/web/status/1334965224483516416",
+          "profileImg": "https://pbs.twimg.com/profile_images/344513261582811231/46befb597c34703dc6b5294f87e192be_normal.jpeg",
+          "username": "Michael Harrington:emh2625",
+          "place": {
+            "name": "Nashville",
+            "full_name": "Nashville, TN",
+            "country_code": "US",
+            "country": "United States"
+          },
+          "geo": [
+            -86.749364,
+            36.03554373
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 20:58:46 +0000 2020",
+          "text": "Just posted a photo @ Tiffany's Tap &amp; Grill https://t.co/f88ZqEZNfi",
+          "type": "T",
+          "embedLink": "twitter.com/TiffanysEynon/status/1334965392339558400",
+          "tweetLink": "twitter.com/i/web/status/1334965392339558400",
+          "profileImg": "https://pbs.twimg.com/profile_images/477192142335406081/o3qlJDuU_normal.jpeg",
+          "username": "Tiffanys Tap & Grill:TiffanysEynon",
+          "place": {
+            "name": "Archbald",
+            "full_name": "Archbald, PA",
+            "country_code": "US",
+            "country": "United States"
+          },
+          "geo": [
+            -75.57747,
+            41.49362
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 21:00:17 +0000 2020",
+          "text": "練馬区貫井四丁目 47-42-4 https://t.co/BUGjDKZ46C",
+          "type": "T",
+          "embedLink": "twitter.com/everylottokyo/status/1334965773949829120",
+          "tweetLink": "twitter.com/i/web/status/1334965773949829120",
+          "profileImg": "https://pbs.twimg.com/profile_images/1217750033681932290/8EsRPCyF_normal.jpg",
+          "username": "every lot tokyo / 東京のすべての土地:everylottokyo",
+          "place": {
+            "name": "Nerima-ku",
+            "full_name": "Nerima-ku, Tokyo",
+            "country_code": "JP",
+            "country": "Japan"
+          },
+          "geo": [
+            139.62725492,
+            35.74506463
+          ],
+          "imgLink": [
+            "https://pbs.twimg.com/media/EobAS7fU0AEFQbj.jpg"
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 21:01:03 +0000 2020",
+          "text": "Just posted a photo @ Beverly Center https://t.co/ibrQyeFbKK",
+          "type": "T",
+          "embedLink": "twitter.com/josefjassophoto/status/1334965966963412998",
+          "tweetLink": "twitter.com/i/web/status/1334965966963412998",
+          "profileImg": "https://pbs.twimg.com/profile_images/485322923368927232/pFYR8ste_normal.jpeg",
+          "username": "Josef Jasso:josefjassophoto",
+          "place": {
+            "name": "Los Angeles",
+            "full_name": "Los Angeles, CA",
+            "country_code": "US",
+            "country": "United States"
+          },
+          "geo": [
+            -118.37710737,
+            34.07486969
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 21:01:19 +0000 2020",
+          "text": "Foto appena pubblicata @ Turin, Italy https://t.co/gKzz4ECvQs",
+          "type": "T",
+          "embedLink": "twitter.com/DavidTokio_/status/1334966034198106119",
+          "tweetLink": "twitter.com/i/web/status/1334966034198106119",
+          "profileImg": "https://pbs.twimg.com/profile_images/624019241130426370/120Rp1Y5_normal.jpg",
+          "username": "David Tokio:DavidTokio_",
+          "place": {
+            "name": "Torino",
+            "full_name": "Torino, Piemonte",
+            "country_code": "IT",
+            "country": "Italia"
+          },
+          "geo": [
+            7.6777,
+            45.0702
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 21:01:20 +0000 2020",
+          "text": "Merry Hometown Christmas Innisfail! Get out there and shop local! It's a great day for it! Bring a donation for the… https://t.co/M7tOcRXTab",
+          "type": "T",
+          "embedLink": "twitter.com/965CKFM/status/1334966038266408960",
+          "tweetLink": "twitter.com/i/web/status/1334966038266408960",
+          "profileImg": "https://pbs.twimg.com/profile_images/1189538945165447169/LQOBQ7Lr_normal.jpg",
+          "username": "96.5 CKFM:965CKFM",
+          "place": {
+            "name": "Innisfail",
+            "full_name": "Innisfail, Alberta",
+            "country_code": "CA",
+            "country": "Canada"
+          },
+          "geo": [
+            -113.93948486,
+            52.02702235
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 21:02:53 +0000 2020",
+          "text": "Scary Placeに動画を投稿しましたhttps://t.co/yQc8OCAYor",
+          "type": "T",
+          "embedLink": "twitter.com/KIURASHIMATAROU/status/1334966428261289986",
+          "tweetLink": "twitter.com/i/web/status/1334966428261289986",
+          "profileImg": "https://pbs.twimg.com/profile_images/1298868255977701376/sQoF9mnE_normal.jpg",
+          "username": "木浦島太郎:KIURASHIMATAROU",
+          "place": {
+            "name": "Thatcham",
+            "full_name": "Thatcham, England",
+            "country_code": "GB",
+            "country": "United Kingdom"
+          },
+          "geo": [
+            -1.256235,
+            51.4038
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 21:03:26 +0000 2020",
+          "text": "Just posted a photo @ Luekens Wine &amp; Spirits https://t.co/DwYoijrxam",
+          "type": "T",
+          "embedLink": "twitter.com/luekensliquors/status/1334966566958424064",
+          "tweetLink": "twitter.com/i/web/status/1334966566958424064",
+          "profileImg": "https://pbs.twimg.com/profile_images/1176855824859303936/mbl-lHtZ_normal.jpg",
+          "username": "Luekens Wine & Spirits:luekensliquors",
+          "place": {
+            "name": "Dunedin",
+            "full_name": "Dunedin, FL",
+            "country_code": "US",
+            "country": "United States"
+          },
+          "geo": [
+            -82.76726,
+            28.02007
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 21:03:43 +0000 2020",
+          "text": "Just posted a photo @ Nordstrom Downtown Seattle https://t.co/3mt7D2UEbg",
+          "type": "T",
+          "embedLink": "twitter.com/NordyPeggy/status/1334966638148526085",
+          "tweetLink": "twitter.com/i/web/status/1334966638148526085",
+          "profileImg": "https://pbs.twimg.com/profile_images/378800000700005770/81ba98b833bbfd6e6d534a6b8a23c23e_normal.jpeg",
+          "username": "Peggy Urban:NordyPeggy",
+          "place": {
+            "name": "Seattle",
+            "full_name": "Seattle, WA",
+            "country_code": "US",
+            "country": "United States"
+          },
+          "geo": [
+            -122.33627737,
+            47.61232573
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 21:05:12 +0000 2020",
+          "text": "Cleared: Construction on #NY104 Both directions from North Goodman Street; CR 108 to Irondequoit Bay Bridge",
+          "type": "T",
+          "embedLink": "twitter.com/511nyRochester/status/1334967011437375493",
+          "tweetLink": "twitter.com/i/web/status/1334967011437375493",
+          "profileImg": "https://pbs.twimg.com/profile_images/307187047/511twitlogo_normal.png",
+          "username": "511NY - Rochester:511nyRochester",
+          "place": {
+            "name": "Irondequoit",
+            "full_name": "Irondequoit, NY",
+            "country_code": "US",
+            "country": "United States"
+          },
+          "geo": [
+            -77.576698,
+            43.196201
+          ],
+          "hashtags": [
+            "NY104"
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 21:05:12 +0000 2020",
+          "text": "Cleared: Construction on #NY25 Both directions from Old Middle Country Road to Pauls Path",
+          "type": "T",
+          "embedLink": "twitter.com/511nyLongIsland/status/1334967011441594374",
+          "tweetLink": "twitter.com/i/web/status/1334967011441594374",
+          "profileImg": "https://pbs.twimg.com/profile_images/307196623/511twitlogo_normal.png",
+          "username": "511NY - Long Island:511nyLongIsland",
+          "place": {
+            "name": "Middle Island",
+            "full_name": "Middle Island, NY",
+            "country_code": "US",
+            "country": "United States"
+          },
+          "geo": [
+            -72.9579,
+            40.88
+          ],
+          "hashtags": [
+            "NY25"
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 21:05:24 +0000 2020",
+          "text": "Just posted a photo @ UCLA https://t.co/KFDeAZA6lQ",
+          "type": "T",
+          "embedLink": "twitter.com/ayogist/status/1334967061630611456",
+          "tweetLink": "twitter.com/i/web/status/1334967061630611456",
+          "profileImg": "https://pbs.twimg.com/profile_images/1289048653/ayogist_square_normal.jpg",
+          "username": "joni:ayogist",
+          "place": {
+            "name": "Los Angeles",
+            "full_name": "Los Angeles, CA",
+            "country_code": "US",
+            "country": "United States"
+          },
+          "geo": [
+            -118.44673634,
+            34.07073346
+          ]
+        },
+        {
+          "created_at": "Sat Dec 05 14:00:33 +0000 2020",
+          "text": "Daily Word!!! Have a blessed day, one love family #teamwindom @ Park Place https://t.co/5VsZa9xztN",
+          "type": "T",
+          "embedLink": "twitter.com/MayorWindom/status/1335222532400672768",
+          "tweetLink": "twitter.com/i/web/status/1335222532400672768",
+          "profileImg": "https://pbs.twimg.com/profile_images/3192607154/3a5b13709721e0d65e01e41341b14b7e_normal.jpeg",
+          "username": "DeAndre Windom:MayorWindom",
+          "place": {
+            "name": "Highland Park",
+            "full_name": "Highland Park, MI",
+            "country_code": "US",
+            "country": "United States"
+          },
+          "geo": [
+            -83.10183,
+            42.41189
+          ],
+          "hashtags": [
+            "teamwindom"
+          ]
+        },
+        {
+          "created_at": "Sat Dec 05 14:00:43 +0000 2020",
+          "text": "Baru saja mengirim foto @ teras124 https://t.co/jFFPDNuBf4",
+          "type": "T",
+          "embedLink": "twitter.com/MahirTheALLIGAT/status/1335222574507290625",
+          "tweetLink": "twitter.com/i/web/status/1335222574507290625",
+          "profileImg": "https://pbs.twimg.com/profile_images/639405696878940160/XVFMI4KP_normal.jpg",
+          "username": "Mahir&The ALLIGATORS:MahirTheALLIGAT",
+          "place": {
+            "name": "Pondokgede",
+            "full_name": "Pondokgede, Indonesia",
+            "country_code": "ID",
+            "country": "Indonesia"
+          },
+          "geo": [
+            106.92602116,
+            -6.28424602
+          ]
+        },
+        {
+          "created_at": "Sat Dec 05 14:01:00 +0000 2020",
+          "text": "Acaba de publicar una foto en Bogotá, Colombia https://t.co/k0tpV75Ggg",
+          "type": "T",
+          "embedLink": "twitter.com/AnheycaY/status/1335222645714018307",
+          "tweetLink": "twitter.com/i/web/status/1335222645714018307",
+          "profileImg": "https://pbs.twimg.com/profile_images/1297396855018532865/JOFBHXfW_normal.jpg",
+          "username": "TURISMO ANHEYCA Logistica y Transporte:AnheycaY",
+          "place": {
+            "name": "Bogotá, D.C.",
+            "full_name": "Bogotá, D.C., Colombia",
+            "country_code": "CO",
+            "country": "Colombia"
+          },
+          "geo": [
+            -74.0794,
+            4.5997
+          ]
+        },
+        {
+          "created_at": "Sat Dec 05 14:01:00 +0000 2020",
+          "text": "Foto appena pubblicata @ Monte Sibilla https://t.co/kQCHAFGAhy",
+          "type": "T",
+          "embedLink": "twitter.com/CamoscioSibilla/status/1335222645793624066",
+          "tweetLink": "twitter.com/i/web/status/1335222645793624066",
+          "profileImg": "https://pbs.twimg.com/profile_images/484008636964798464/rFnQ-G0R_normal.jpeg",
+          "username": "Camoscio Sibillini:CamoscioSibilla",
+          "place": {
+            "name": "Montemonaco",
+            "full_name": "Montemonaco, Marche",
+            "country_code": "IT",
+            "country": "Italia"
+          },
+          "geo": [
+            13.26194444,
+            42.9
+          ]
+        },
+        {
+          "created_at": "Sat Dec 05 14:03:01 +0000 2020",
+          "text": "Acabou de publicar uma foto em Olindina https://t.co/zc4Bz27ZuS",
+          "type": "T",
+          "embedLink": "twitter.com/ciaatoresdemar/status/1335223152977338368",
+          "tweetLink": "twitter.com/i/web/status/1335223152977338368",
+          "profileImg": "https://pbs.twimg.com/profile_images/1212224728984965120/zWrq01xP_normal.jpg",
+          "username": "Cia Atores de Mar':ciaatoresdemar",
+          "place": {
+            "name": "Olindina",
+            "full_name": "Olindina, Brasil",
+            "country_code": "BR",
+            "country": "Brasil"
+          },
+          "geo": [
+            -38.32813,
+            -11.36296
+          ]
+        },
+        {
+          "created_at": "Sat Dec 05 14:03:04 +0000 2020",
+          "text": "11260 Strathern Street https://t.co/cr3GssZEsd",
+          "type": "T",
+          "embedLink": "twitter.com/everylotla/status/1335223165581193217",
+          "tweetLink": "twitter.com/i/web/status/1335223165581193217",
+          "profileImg": "https://pbs.twimg.com/profile_images/678686348455354368/jZwcq7ln_normal.png",
+          "username": "every lot la:everylotla",
+          "place": {
+            "name": "Los Angeles",
+            "full_name": "Los Angeles, CA",
+            "country_code": "US",
+            "country": "United States"
+          },
+          "geo": [
+            -118.37683881,
+            34.21541891
+          ],
+          "imgLink": [
+            "https://pbs.twimg.com/media/EoeqZDZWMAAn7N7.jpg"
+          ]
+        },
+        {
+          "created_at": "Sat Dec 05 14:05:57 +0000 2020",
+          "text": "Just posted a photo @ BATIK - Hajj, Umrah and Trading https://t.co/jI4xwzcvIC",
+          "type": "T",
+          "embedLink": "twitter.com/marufridho/status/1335223891480887297",
+          "tweetLink": "twitter.com/i/web/status/1335223891480887297",
+          "profileImg": "https://pbs.twimg.com/profile_images/1327778254242004995/fnJl15RX_normal.jpg",
+          "username": "Ma'rufRidhoSyahrofi:marufridho",
+          "place": {
+            "name": "Depok",
+            "full_name": "Depok, Indonesia",
+            "country_code": "ID",
+            "country": "Indonesia"
+          },
+          "geo": [
+            110.38504444,
+            -7.7593289
+          ]
+        },
+        {
+          "created_at": "Sat Dec 05 14:07:28 +0000 2020",
+          "text": "Just posted a photo @ Darien, Georgia https://t.co/jOwUZOUPFL",
+          "type": "T",
+          "embedLink": "twitter.com/kissmy_glitz/status/1335224273070387200",
+          "tweetLink": "twitter.com/i/web/status/1335224273070387200",
+          "profileImg": "https://pbs.twimg.com/profile_images/1244286494652719104/d7rIn6r1_normal.jpg",
+          "username": "Gℓιтz & Gåɾѕ:kissmy_glitz",
+          "place": {
+            "name": "Darien",
+            "full_name": "Darien, GA",
+            "country_code": "US",
+            "country": "United States"
+          },
+          "geo": [
+            -81.4307,
+            31.3711
+          ]
+        },
+        {
+          "created_at": "Sat Dec 05 14:09:04 +0000 2020",
+          "text": "This is one journey, you wont want to end..\n\n📷@esrageziyor\n\nFollow : @reccytravel\nFollow : @esrageziyor… https://t.co/L2WKFZKQ7d",
+          "type": "T",
+          "embedLink": "twitter.com/reccytravel/status/1335224675568390145",
+          "tweetLink": "twitter.com/i/web/status/1335224675568390145",
+          "profileImg": "https://pbs.twimg.com/profile_images/1238116753533595650/613aw1Bo_normal.jpg",
+          "username": "Reccy Travel:reccytravel",
+          "place": {
+            "name": "Poschiavo",
+            "full_name": "Poschiavo, Switzerland",
+            "country_code": "CH",
+            "country": "Switzerland"
+          },
+          "geo": [
+            10.01972222,
+            46.40888889
+          ]
+        },
+        {
+          "created_at": "Sat Dec 05 14:09:34 +0000 2020",
+          "text": "Baru sahaja menyiarkan foto @ Slim River https://t.co/6tGFBzJl1O",
+          "type": "T",
+          "embedLink": "twitter.com/AmoraYuyuu/status/1335224801770663938",
+          "tweetLink": "twitter.com/i/web/status/1335224801770663938",
+          "profileImg": "https://pbs.twimg.com/profile_images/1270994223701979137/08_5WTvT_normal.jpg",
+          "username": "Faith Fleur & Obsess Cosmetics Slim River:AmoraYuyuu",
+          "place": {
+            "name": "Slim",
+            "full_name": "Slim, Perak",
+            "country_code": "MY",
+            "country": "Malaysia"
+          },
+          "geo": [
+            101.4,
+            3.83333333
+          ]
+        },
+        {
+          "created_at": "Sat Dec 05 14:10:54 +0000 2020",
+          "text": "Baru saja mengirim foto @ Curug Leuwi Lieuk Babakan Madang https://t.co/cxtMX2XrZC",
+          "type": "T",
+          "embedLink": "twitter.com/ghaniscatt/status/1335225137222852610",
+          "tweetLink": "twitter.com/i/web/status/1335225137222852610",
+          "profileImg": "https://pbs.twimg.com/profile_images/505644804982599680/rSJ5sdr1_normal.jpeg",
+          "username": "Tubagus Aji Mahendra:ghaniscatt",
+          "place": {
+            "name": "Citeureup",
+            "full_name": "Citeureup, Indonesia",
+            "country_code": "ID",
+            "country": "Indonesia"
+          },
+          "geo": [
+            106.867,
+            -6.56667
+          ]
+        },
+        {
+          "created_at": "Sat Dec 05 14:10:58 +0000 2020",
+          "text": "Just posted a photo @ Taguig https://t.co/6nV75HCBEq",
+          "type": "T",
+          "embedLink": "twitter.com/April1130405994/status/1335225153941331969",
+          "tweetLink": "twitter.com/i/web/status/1335225153941331969",
+          "profileImg": "https://pbs.twimg.com/profile_images/1330771277280202754/1N78zM3m_normal.jpg",
+          "username": "#Turtle One 💙🐢🏳️‍🌈:April1130405994",
+          "place": {
+            "name": "Taguig City",
+            "full_name": "Taguig City, National Capital Region",
+            "country_code": "PH",
+            "country": "Republic of the Philippines"
+          },
+          "geo": [
+            121.0562,
+            14.5127
+          ]
+        },
+        {
+          "created_at": "Sat Dec 05 14:11:46 +0000 2020",
+          "text": "Az önce bir fotoğraf paylaştı @ Kabaklı, Balikesir, Turkey https://t.co/iVt65cw2zX",
+          "type": "T",
+          "embedLink": "twitter.com/balikesirevbul/status/1335225355313954817",
+          "tweetLink": "twitter.com/i/web/status/1335225355313954817",
+          "profileImg": "https://pbs.twimg.com/profile_images/595581116440027136/CkTntG8S_normal.jpg",
+          "username": "balikesirevbul:balikesirevbul",
+          "place": {
+            "name": "Balıkesir Merkez",
+            "full_name": "Balıkesir Merkez, Balıkesir",
+            "country_code": "TR",
+            "country": "Türkiye"
+          },
+          "geo": [
+            27.8319,
+            39.5651
+          ]
+        },
+        {
+          "created_at": "Sat Dec 05 14:13:05 +0000 2020",
+          "text": "Just posted a photo @ Winslow Township High School https://t.co/RRn3jT4aUL",
+          "type": "T",
+          "embedLink": "twitter.com/TheSignCompany1/status/1335225686605377537",
+          "tweetLink": "twitter.com/i/web/status/1335225686605377537",
+          "profileImg": "https://pbs.twimg.com/profile_images/1197678685614198786/DsInkTGr_normal.jpg",
+          "username": "The Sign Company:TheSignCompany1",
+          "place": {
+            "name": "New Jersey",
+            "full_name": "New Jersey, USA",
+            "country_code": "US",
+            "country": "United States"
+          },
+          "geo": [
+            -74.90788793,
+            39.74543998
+          ]
+        },
+        {
+          "created_at": "Sat Dec 05 14:13:43 +0000 2020",
+          "text": "Just posted a photo @ Dallas, Texas https://t.co/rSwHU00Csq",
+          "type": "T",
+          "embedLink": "twitter.com/PatrickBWare/status/1335225845993058304",
+          "tweetLink": "twitter.com/i/web/status/1335225845993058304",
+          "profileImg": "https://pbs.twimg.com/profile_images/922498338116853760/AM2j4tiX_normal.jpg",
+          "username": "Patrickbware:PatrickBWare",
+          "place": {
+            "name": "Dallas",
+            "full_name": "Dallas, TX",
+            "country_code": "US",
+            "country": "United States"
+          },
+          "geo": [
+            -96.7977,
+            32.7774
+          ]
+        },
+        {
+          "created_at": "Sat Dec 05 14:57:25 +0000 2020",
+          "text": "Acabou de publicar uma foto em Em Campo Grande MS https://t.co/Gmie74qRqQ",
+          "type": "T",
+          "embedLink": "twitter.com/Marciusru/status/1335236843613335553",
+          "tweetLink": "twitter.com/i/web/status/1335236843613335553",
+          "profileImg": "https://pbs.twimg.com/profile_images/1329204195002642433/YckdrPFS_normal.jpg",
+          "username": "Dr Marcius Ulbrecht:Marciusru",
+          "place": {
+            "name": "Campo Grande",
+            "full_name": "Campo Grande, Brasil",
+            "country_code": "BR",
+            "country": "Brasil"
+          },
+          "geo": [
+            -54.68798,
+            -20.45484
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 21:08:28 +0000 2020",
+          "text": "Just posted a photo @ San Juan, Puerto Rico https://t.co/lTHgTUdTzi",
+          "type": "T",
+          "embedLink": "twitter.com/CortesStudio/status/1334967833487437824",
+          "tweetLink": "twitter.com/i/web/status/1334967833487437824",
+          "profileImg": "https://pbs.twimg.com/profile_images/955532887209594880/cmP7xPHg_normal.jpg",
+          "username": "Joe Cortes:CortesStudio",
+          "place": {
+            "name": "San Juan",
+            "full_name": "San Juan, USA",
+            "country_code": "US",
+            "country": "United States"
+          },
+          "geo": [
+            -66.0667,
+            18.45
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 21:08:33 +0000 2020",
+          "text": "【06:00時点 7.5℃】\n8.4~7.4℃\n(西部)★注意報:乾燥(東部)★注意報:乾燥\n＝愛知県豊田市 #toyota #豊田 https://t.co/hS835QuN8X",
+          "type": "T",
+          "embedLink": "twitter.com/mgn_toyota/status/1334967854509113349",
+          "tweetLink": "twitter.com/i/web/status/1334967854509113349",
+          "profileImg": "https://pbs.twimg.com/profile_images/993441504394854402/0fFr0j2B_normal.jpg",
+          "username": "気象うさぎ:豊田:mgn_toyota",
+          "place": {
+            "name": "豊田市",
+            "full_name": "愛知 豊田市",
+            "country_code": "JP",
+            "country": "日本"
+          },
+          "geo": [
+            137.17666667,
+            35.13166667
+          ],
+          "imgLink": [
+            "https://pbs.twimg.com/media/EobCMGpUUAMZ72H.png"
+          ],
+          "hashtags": [
+            "toyota",
+            "豊田"
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 21:09:11 +0000 2020",
+          "text": "Just posted a photo @ Shotton, Flintshire https://t.co/9hIliyzxev",
+          "type": "T",
+          "embedLink": "twitter.com/CobraLifeFMA/status/1334968013905248257",
+          "tweetLink": "twitter.com/i/web/status/1334968013905248257",
+          "profileImg": "https://pbs.twimg.com/profile_images/1108049859729412097/VNrShcBY_normal.png",
+          "username": "Gavin Eastham:CobraLifeFMA",
+          "place": {
+            "name": "Shotton",
+            "full_name": "Shotton, Wales",
+            "country_code": "GB",
+            "country": "United Kingdom"
+          },
+          "geo": [
+            -3.042,
+            53.209
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 21:09:28 +0000 2020",
+          "text": "Foto appena pubblicata @ Muggia Vecchia, Friuli-Venezia Giulia, Italy https://t.co/3Ktvc9n4y0",
+          "type": "T",
+          "embedLink": "twitter.com/IV3BGG/status/1334968085120311297",
+          "tweetLink": "twitter.com/i/web/status/1334968085120311297",
+          "profileImg": "https://pbs.twimg.com/profile_images/1252318612859359235/Uxkc6IHF_normal.jpg",
+          "username": "IV3BGG Luca S Guerra 🇮🇹 🇨🇭:IV3BGG",
+          "place": {
+            "name": "Muggia",
+            "full_name": "Muggia, Friuli-Venezia Giulia",
+            "country_code": "IT",
+            "country": "Italia"
+          },
+          "geo": [
+            13.75,
+            45.6
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 21:09:49 +0000 2020",
+          "text": "Just posted a photo @ Bailarín Cellars https://t.co/2hpjB0tRBm",
+          "type": "T",
+          "embedLink": "twitter.com/BailarinCellars/status/1334968173293146117",
+          "tweetLink": "twitter.com/i/web/status/1334968173293146117",
+          "profileImg": "https://pbs.twimg.com/profile_images/633361318834106369/-QxnB3Tp_normal.jpg",
+          "username": "Bailarín Cellars:BailarinCellars",
+          "place": {
+            "name": "Sacramento",
+            "full_name": "Sacramento, CA",
+            "country_code": "US",
+            "country": "United States"
+          },
+          "geo": [
+            -121.49717,
+            38.5797
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 21:09:49 +0000 2020",
+          "text": "Just posted a photo @ Lindenhurst, Illinois https://t.co/DZ2MNT9wCM",
+          "type": "T",
+          "embedLink": "twitter.com/theveloist/status/1334968173251203074",
+          "tweetLink": "twitter.com/i/web/status/1334968173251203074",
+          "profileImg": "https://pbs.twimg.com/profile_images/941987600574722049/glewSS34_normal.jpg",
+          "username": "Michael Valenti:theveloist",
+          "place": {
+            "name": "Lindenhurst",
+            "full_name": "Lindenhurst, IL",
+            "country_code": "US",
+            "country": "United States"
+          },
+          "geo": [
+            -88.02812,
+            42.40792
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 21:09:56 +0000 2020",
+          "text": "Just posted a photo @ Antiques for home decoration. https://t.co/WZDHZbWawC",
+          "type": "T",
+          "embedLink": "twitter.com/doaaxebyan/status/1334968202678431747",
+          "tweetLink": "twitter.com/i/web/status/1334968202678431747",
+          "profileImg": "https://pbs.twimg.com/profile_images/1140993484926701568/aY0hwJkr_normal.jpg",
+          "username": "Doaa A. Ebyan:doaaxebyan",
+          "place": {
+            "name": "Giza",
+            "full_name": "Giza, Egypt",
+            "country_code": "EG",
+            "country": "Egypt"
+          },
+          "geo": [
+            31.10219293,
+            29.98531123
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 21:10:22 +0000 2020",
+          "text": "Just posted a photo @ Second Life Atlanta https://t.co/g0X30B8hFf",
+          "type": "T",
+          "embedLink": "twitter.com/secondlifeatl/status/1334968311671566348",
+          "tweetLink": "twitter.com/i/web/status/1334968311671566348",
+          "profileImg": "https://pbs.twimg.com/profile_images/1235430314626797569/MnjlIqvQ_normal.jpg",
+          "username": "Second Life Atlanta:secondlifeatl",
+          "place": {
+            "name": "Avondale Estates",
+            "full_name": "Avondale Estates, GA",
+            "country_code": "US",
+            "country": "United States"
+          },
+          "geo": [
+            -84.26695,
+            33.77679
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 21:10:36 +0000 2020",
+          "text": "Just posted a photo @ 13 Bats Tattoo and Body Piercing Studio https://t.co/UpOYTu9YCG",
+          "type": "T",
+          "embedLink": "twitter.com/13_Bats/status/1334968370291159040",
+          "tweetLink": "twitter.com/i/web/status/1334968370291159040",
+          "profileImg": "https://pbs.twimg.com/profile_images/1286441020784144390/KFy2Q3FP_normal.jpg",
+          "username": "@13Batstattooandpiercing:13_Bats",
+          "place": {
+            "name": "San Francisco",
+            "full_name": "San Francisco, CA",
+            "country_code": "US",
+            "country": "United States"
+          },
+          "geo": [
+            -122.42100859,
+            37.75629065
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 21:10:54 +0000 2020",
+          "text": "Acabou de publicar uma foto em Mato Grosso do Sul https://t.co/OZJTm4Okp8",
+          "type": "T",
+          "embedLink": "twitter.com/redemsrecord/status/1334968445943885827",
+          "tweetLink": "twitter.com/i/web/status/1334968445943885827",
+          "profileImg": "https://pbs.twimg.com/profile_images/1214924237338791937/JAUZGK4p_normal.jpg",
+          "username": "TVMS RECORD:redemsrecord",
+          "place": {
+            "name": "Campo Grande",
+            "full_name": "Campo Grande, Brasil",
+            "country_code": "BR",
+            "country": "Brasil"
+          },
+          "geo": [
+            -54.64583333,
+            -20.44277778
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 21:11:58 +0000 2020",
+          "text": "Just posted a photo @ Queretaro https://t.co/s5K3cV8a4u",
+          "type": "T",
+          "embedLink": "twitter.com/JorgePorrasP/status/1334968714144452617",
+          "tweetLink": "twitter.com/i/web/status/1334968714144452617",
+          "profileImg": "https://pbs.twimg.com/profile_images/1154236578404937728/U-FjqRCD_normal.jpg",
+          "username": "Jorge Porras ن:JorgePorrasP",
+          "place": {
+            "name": "Querétaro",
+            "full_name": "Querétaro, Querétaro Arteaga",
+            "country_code": "MX",
+            "country": "Mexico"
+          },
+          "geo": [
+            -100.3962,
+            20.5875
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 21:12:21 +0000 2020",
+          "text": "Just posted a photo @ Carloway, Eilean Siar, United Kingdom https://t.co/VPHZzcvirY",
+          "type": "T",
+          "embedLink": "twitter.com/BigWoofa/status/1334968810663784450",
+          "tweetLink": "twitter.com/i/web/status/1334968810663784450",
+          "profileImg": "https://pbs.twimg.com/profile_images/1249041883302592514/eesaEPb7_normal.jpg",
+          "username": "Neil Barker:BigWoofa",
+          "place": {
+            "name": "Scotland",
+            "full_name": "Scotland, United Kingdom",
+            "country_code": "GB",
+            "country": "United Kingdom"
+          },
+          "geo": [
+            -6.75,
+            58.2667
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 21:12:44 +0000 2020",
+          "text": "肉骨茶そばがメニュー入りする季節。 (@ 富士そば 吉祥寺店 in 武蔵野市, 東京都) https://t.co/3PTJFZuKGL https://t.co/VIh0KfPwb0",
+          "type": "T",
+          "embedLink": "twitter.com/endofrock/status/1334968906558083073",
+          "tweetLink": "twitter.com/i/web/status/1334968906558083073",
+          "profileImg": "https://pbs.twimg.com/profile_images/612869101749284864/Q85mVkMG_normal.jpg",
+          "username": "R. I.:endofrock",
+          "place": {
+            "name": "武蔵野市",
+            "full_name": "東京 武蔵野市",
+            "country_code": "JP",
+            "country": "日本"
+          },
+          "geo": [
+            139.5794165,
+            35.70346411
+          ],
+          "imgLink": [
+            "https://pbs.twimg.com/media/EobDJVTXIAIFPxL.jpg"
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 21:12:45 +0000 2020",
+          "text": "Just posted a photo @ Nyx Lounge &amp; Deck https://t.co/0SMsXdFbgJ",
+          "type": "T",
+          "embedLink": "twitter.com/jupiter_deejay/status/1334968911486447617",
+          "tweetLink": "twitter.com/i/web/status/1334968911486447617",
+          "profileImg": "https://pbs.twimg.com/profile_images/1278549034341261314/TSEVxv9e_normal.jpg",
+          "username": "DJ JUPITER:jupiter_deejay",
+          "place": {
+            "name": "Guwahati",
+            "full_name": "Guwahati, India",
+            "country_code": "IN",
+            "country": "India"
+          },
+          "geo": [
+            91.8159138,
+            26.1249054
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 21:13:16 +0000 2020",
+          "text": "Nové hlášení: Závada na veřejné zeleni - Kolín https://t.co/hJ661KUlU1 https://t.co/woZA2T8Oz7",
+          "type": "T",
+          "embedLink": "twitter.com/ZmapujTo/status/1334969040931069961",
+          "tweetLink": "twitter.com/i/web/status/1334969040931069961",
+          "profileImg": "https://pbs.twimg.com/profile_images/854448366952042497/oidi7XvT_normal.jpg",
+          "username": "ZmapujTo:ZmapujTo",
+          "place": {
+            "name": "Kolín",
+            "full_name": "Kolín, Česká republika",
+            "country_code": "CZ",
+            "country": "Česká republika"
+          },
+          "geo": [
+            15.1884061,
+            50.0219992
+          ],
+          "imgLink": [
+            "https://pbs.twimg.com/media/EobDRGSXcAA8aMZ.jpg"
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 21:13:35 +0000 2020",
+          "text": "Hat gerade ein Foto gepostet @ Weiden in der Oberpfalz https://t.co/0d0544Rgev",
+          "type": "T",
+          "embedLink": "twitter.com/FriedrichSylke/status/1334969121113600007",
+          "tweetLink": "twitter.com/i/web/status/1334969121113600007",
+          "profileImg": "https://pbs.twimg.com/profile_images/745182269292240896/FtQIE7Wo_normal.jpg",
+          "username": "Sylke 3:FriedrichSylke",
+          "place": {
+            "name": "Weiden in der Oberpfalz",
+            "full_name": "Weiden in der Oberpfalz, Deutschland",
+            "country_code": "DE",
+            "country": "Deutschland"
+          },
+          "geo": [
+            12.15634,
+            49.67403
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 21:13:37 +0000 2020",
+          "text": "Just posted a photo @ The White Horse Dover https://t.co/kWq6hmiURN",
+          "type": "T",
+          "embedLink": "twitter.com/WhiteHorseDover/status/1334969129447677952",
+          "tweetLink": "twitter.com/i/web/status/1334969129447677952",
+          "profileImg": "https://pbs.twimg.com/profile_images/1011980295791357954/TsFUyA9N_normal.jpg",
+          "username": "WhiteHorseInnDover:WhiteHorseDover",
+          "place": {
+            "name": "Dover",
+            "full_name": "Dover, England",
+            "country_code": "GB",
+            "country": "United Kingdom"
+          },
+          "geo": [
+            1.31765127,
+            51.12621938
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 21:13:41 +0000 2020",
+          "text": "Acaba de publicar una foto en Argentina https://t.co/Lrp7vaEoRc",
+          "type": "T",
+          "embedLink": "twitter.com/MerhejeA/status/1334969146325479425",
+          "tweetLink": "twitter.com/i/web/status/1334969146325479425",
+          "profileImg": "https://pbs.twimg.com/profile_images/1160923257840852992/BL_gqhT5_normal.jpg",
+          "username": "Merheje Argentina🇦🇷:MerhejeA",
+          "place": {
+            "name": "Córdoba",
+            "full_name": "Córdoba, Argentina",
+            "country_code": "AR",
+            "country": "Argentina"
+          },
+          "geo": [
+            -64,
+            -34
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 21:14:27 +0000 2020",
+          "text": "Just posted a photo @ Body Language Custom Ink https://t.co/0Hcf4eq0IP",
+          "type": "T",
+          "embedLink": "twitter.com/robbytatz407/status/1334969339158487041",
+          "tweetLink": "twitter.com/i/web/status/1334969339158487041",
+          "profileImg": "https://pbs.twimg.com/profile_images/1248285126041030656/gDNllXJp_normal.jpg",
+          "username": "robbytatz407:robbytatz407",
+          "place": {
+            "name": "Florida",
+            "full_name": "Florida, USA",
+            "country_code": "US",
+            "country": "United States"
+          },
+          "geo": [
+            -81.18042896,
+            28.56584929
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 21:15:59 +0000 2020",
+          "text": "Just posted a photo @ Anaheim Califorina https://t.co/dZKZlGLKHj",
+          "type": "T",
+          "embedLink": "twitter.com/signaturehs/status/1334969725026242564",
+          "tweetLink": "twitter.com/i/web/status/1334969725026242564",
+          "profileImg": "https://pbs.twimg.com/profile_images/378800000262446914/e0ced3eb07594cb1edd51e9aa68e9375_normal.jpeg",
+          "username": "SignatureHomeInspect:signaturehs",
+          "place": {
+            "name": "Anaheim",
+            "full_name": "Anaheim, CA",
+            "country_code": "US",
+            "country": "United States"
+          },
+          "geo": [
+            -117.94412802,
+            33.82550247
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 21:17:53 +0000 2020",
+          "text": "Just posted a photo @ New Orleans, Louisiana https://t.co/e4HkTL642q",
+          "type": "T",
+          "embedLink": "twitter.com/flysocietyatx/status/1334970203348807685",
+          "tweetLink": "twitter.com/i/web/status/1334970203348807685",
+          "profileImg": "https://pbs.twimg.com/profile_images/1149347298364809222/93SQiNEm_normal.jpg",
+          "username": "Tazpoe:flysocietyatx",
+          "place": {
+            "name": "New Orleans",
+            "full_name": "New Orleans, LA",
+            "country_code": "US",
+            "country": "United States"
+          },
+          "geo": [
+            -90.070864,
+            29.948479
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 21:17:57 +0000 2020",
+          "text": "Foto appena pubblicata @ Forno Moderno https://t.co/55G1nw4fp3",
+          "type": "T",
+          "embedLink": "twitter.com/MrFirenzeSpett/status/1334970220105117715",
+          "tweetLink": "twitter.com/i/web/status/1334970220105117715",
+          "profileImg": "https://pbs.twimg.com/profile_images/476357734023979008/Dn-qw2eE_normal.jpeg",
+          "username": "Firenze Spettacolo:MrFirenzeSpett",
+          "place": {
+            "name": "Certaldo",
+            "full_name": "Certaldo, Toscana",
+            "country_code": "IT",
+            "country": "Italia"
+          },
+          "geo": [
+            11.04438032,
+            43.54648118
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 21:17:58 +0000 2020",
+          "text": "Just posted a photo @ New Hope Community Church - Santa Cruz Campus https://t.co/aWtSybERP5",
+          "type": "T",
+          "embedLink": "twitter.com/newhopesantacrz/status/1334970224148238337",
+          "tweetLink": "twitter.com/i/web/status/1334970224148238337",
+          "profileImg": "https://pbs.twimg.com/profile_images/1035322772048596993/tf-AVGMG_normal.jpg",
+          "username": "newhopesantacruz:newhopesantacrz",
+          "place": {
+            "name": "Live Oak",
+            "full_name": "Live Oak, CA",
+            "country_code": "US",
+            "country": "United States"
+          },
+          "geo": [
+            -121.97381,
+            36.96957
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 21:18:15 +0000 2020",
+          "text": "Just posted a photo @ Walmart Hueytown https://t.co/lw8fxEkzKT",
+          "type": "T",
+          "embedLink": "twitter.com/987TodaysKiss/status/1334970295678095370",
+          "tweetLink": "twitter.com/i/web/status/1334970295678095370",
+          "profileImg": "https://pbs.twimg.com/profile_images/1324482241058263041/F1rt6A4K_normal.jpg",
+          "username": "WBHK 98.7 Kiss FM:987TodaysKiss",
+          "place": {
+            "name": "Hueytown",
+            "full_name": "Hueytown, AL",
+            "country_code": "US",
+            "country": "United States"
+          },
+          "geo": [
+            -86.96843524,
+            33.46054311
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 21:18:25 +0000 2020",
+          "text": "Just posted a photo @ Wright Brothers Prek-8 School @ Grant https://t.co/TeROmpetDL",
+          "type": "T",
+          "embedLink": "twitter.com/wbmiddle_dps/status/1334970337352671234",
+          "tweetLink": "twitter.com/i/web/status/1334970337352671234",
+          "profileImg": "https://pbs.twimg.com/profile_images/895425597287129089/E4lfGsBp_normal.jpg",
+          "username": "Wright Brothers MS:wbmiddle_dps",
+          "place": {
+            "name": "Dayton",
+            "full_name": "Dayton, OH",
+            "country_code": "US",
+            "country": "United States"
+          },
+          "geo": [
+            -84.14452,
+            39.7584
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 21:19:05 +0000 2020",
+          "text": "Acaba de publicar una foto en Agencia Propiedad Inmobiliaria Agustin Leon https://t.co/JpQhriEMvE",
+          "type": "T",
+          "embedLink": "twitter.com/API_AGUSTINLEON/status/1334970505363816448",
+          "tweetLink": "twitter.com/i/web/status/1334970505363816448",
+          "profileImg": "https://pbs.twimg.com/profile_images/1015547498742640640/RfVlg9UH_normal.jpg",
+          "username": "Agustin Leon Calero:API_AGUSTINLEON",
+          "place": {
+            "name": "Montoro",
+            "full_name": "Montoro, España",
+            "country_code": "ES",
+            "country": "España"
+          },
+          "geo": [
+            -4.38359169,
+            38.01943652
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 21:19:07 +0000 2020",
+          "text": "Just posted a photo @ Los Palos Grandes, Miranda, Venezuela https://t.co/NLcMBxnLdD",
+          "type": "T",
+          "embedLink": "twitter.com/ysabelvel/status/1334970513672855558",
+          "tweetLink": "twitter.com/i/web/status/1334970513672855558",
+          "profileImg": "https://pbs.twimg.com/profile_images/1115883815/avatar_normal.jpg",
+          "username": "Ysabel Velasquez:ysabelvel",
+          "place": {
+            "name": "Petare",
+            "full_name": "Petare, Venezuela",
+            "country_code": "VE",
+            "country": "Venezuela"
+          },
+          "geo": [
+            -66.8428,
+            10.505
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 21:19:49 +0000 2020",
+          "text": "Just posted a photo @ Marry Christmas https://t.co/SkVkvftfwx",
+          "type": "T",
+          "embedLink": "twitter.com/arttbooks/status/1334970689732845572",
+          "tweetLink": "twitter.com/i/web/status/1334970689732845572",
+          "profileImg": "https://pbs.twimg.com/profile_images/1314567994010460160/hbXQ1zD0_normal.jpg",
+          "username": "𝙶𝚊𝚋𝚢 ☽ little witch mood:arttbooks",
+          "place": {
+            "name": "Malmo",
+            "full_name": "Malmo, Sweden",
+            "country_code": "SE",
+            "country": "Sweden"
+          },
+          "geo": [
+            13.02226318,
+            55.5720335
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 21:20:10 +0000 2020",
+          "text": "Hat gerade ein Foto gepostet @ Creative4Fun https://t.co/I4GF5nY6V7",
+          "type": "T",
+          "embedLink": "twitter.com/creative4fun24/status/1334970778039697409",
+          "tweetLink": "twitter.com/i/web/status/1334970778039697409",
+          "profileImg": "https://pbs.twimg.com/profile_images/1176185052927016965/6mHk41lA_normal.jpg",
+          "username": "Thomas Leu:creative4fun24",
+          "place": {
+            "name": "Mettmann",
+            "full_name": "Mettmann, Deutschland",
+            "country_code": "DE",
+            "country": "Deutschland"
+          },
+          "geo": [
+            6.976165,
+            51.24893135
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 21:20:31 +0000 2020",
+          "text": "After three weeks, I could’ve waited another day.",
+          "type": "T",
+          "embedLink": "twitter.com/Steve_Irv/status/1334970865801457664",
+          "tweetLink": "twitter.com/i/web/status/1334970865801457664",
+          "profileImg": "https://pbs.twimg.com/profile_images/1212044820677582850/NS3ciXD0_normal.jpg",
+          "username": "Steve:Steve_Irv",
+          "place": {
+            "name": "Cumnor",
+            "full_name": "Cumnor, England",
+            "country_code": "GB",
+            "country": "United Kingdom"
+          },
+          "geo": [
+            -1.31362074,
+            51.74758911
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 21:20:34 +0000 2020",
+          "text": "Acabou de publicar uma foto em São Luís, Brazil https://t.co/Odvcb3ajOW",
+          "type": "T",
+          "embedLink": "twitter.com/joariaires/status/1334970878396952576",
+          "tweetLink": "twitter.com/i/web/status/1334970878396952576",
+          "profileImg": "https://pbs.twimg.com/profile_images/1152429906577502209/KUAwXS3P_normal.jpg",
+          "username": "Joari Aires da Silva:joariaires",
+          "place": {
+            "name": "São Luís",
+            "full_name": "São Luís, Brasil",
+            "country_code": "BR",
+            "country": "Brasil"
+          },
+          "geo": [
+            -44.2992,
+            -2.5333
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 21:20:55 +0000 2020",
+          "text": "Looking to score a job at Dollar Tree? You're in luck. Click the link in our bio for the job description and inform… https://t.co/5m9xbRneWQ",
+          "type": "T",
+          "embedLink": "twitter.com/tmj_roa_labor/status/1334970966636515329",
+          "tweetLink": "twitter.com/i/web/status/1334970966636515329",
+          "profileImg": "https://pbs.twimg.com/profile_images/682950052277391360/Mg4DE3dU_normal.jpg",
+          "username": "TMJ-ROA Labor Jobs:tmj_roa_labor",
+          "place": {
+            "name": "Forest",
+            "full_name": "Forest, VA",
+            "country_code": "US",
+            "country": "United States"
+          },
+          "geo": [
+            -79.289749,
+            37.3637534
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 21:21:17 +0000 2020",
+          "text": "Just posted a photo @ Boa Luta Academy https://t.co/nu5N88Vc3d",
+          "type": "T",
+          "embedLink": "twitter.com/BoaLutaAcademy/status/1334971058890416130",
+          "tweetLink": "twitter.com/i/web/status/1334971058890416130",
+          "profileImg": "https://pbs.twimg.com/profile_images/962740417858031616/2tdwpX5o_normal.jpg",
+          "username": "Boa Luta Academy:BoaLutaAcademy",
+          "place": {
+            "name": "Cotulla",
+            "full_name": "Cotulla, TX",
+            "country_code": "US",
+            "country": "United States"
+          },
+          "geo": [
+            -99.22393173,
+            28.42433045
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 21:21:22 +0000 2020",
+          "text": "Acaba de publicar una foto en IETA - Instituto de Estudios Técnicos Aeronáuticos https://t.co/xj5vWaUmsT",
+          "type": "T",
+          "embedLink": "twitter.com/Escuela_IETA/status/1334971079916449793",
+          "tweetLink": "twitter.com/i/web/status/1334971079916449793",
+          "profileImg": "https://pbs.twimg.com/profile_images/1324807254982430726/c_sRYY-5_normal.jpg",
+          "username": "IETA:Escuela_IETA",
+          "place": {
+            "name": "Bogotá, D.C.",
+            "full_name": "Bogotá, D.C., Colombia",
+            "country_code": "CO",
+            "country": "Colombia"
+          },
+          "geo": [
+            -74.07643,
+            4.62166
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 21:21:45 +0000 2020",
+          "text": "We are looking for a buyer on 2606 MOORINGS CT #Baltimore #MD  #realestate https://t.co/ikvQRyagFl https://t.co/lIHlpPwmW3",
+          "type": "T",
+          "embedLink": "twitter.com/Century21Dwntwn/status/1334971175731142657",
+          "tweetLink": "twitter.com/i/web/status/1334971175731142657",
+          "profileImg": "https://pbs.twimg.com/profile_images/993586801959878657/wd8oPCi2_normal.jpg",
+          "username": "Century 21 Downtown:Century21Dwntwn",
+          "place": {
+            "name": "Baltimore",
+            "full_name": "Baltimore, MD",
+            "country_code": "US",
+            "country": "United States"
+          },
+          "geo": [
+            -76.58004,
+            39.27887
+          ],
+          "imgLink": [
+            "https://pbs.twimg.com/media/EobFNZ7XMAEetUT.jpg"
+          ],
+          "hashtags": [
+            "Baltimore",
+            "MD",
+            "realestate"
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 21:21:56 +0000 2020",
+          "text": "Just posted a photo @ New York, New York https://t.co/rp0Vhgpo2x",
+          "type": "T",
+          "embedLink": "twitter.com/Audra66Audra/status/1334971222283726854",
+          "tweetLink": "twitter.com/i/web/status/1334971222283726854",
+          "profileImg": "https://pbs.twimg.com/profile_images/901216111487856641/ZTV1ERHI_normal.jpg",
+          "username": "audra harris:Audra66Audra",
+          "place": {
+            "name": "Manhattan",
+            "full_name": "Manhattan, NY",
+            "country_code": "US",
+            "country": "United States"
+          },
+          "geo": [
+            -74.0064,
+            40.7142
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 21:22:09 +0000 2020",
+          "text": "Acabou de publicar uma foto em Copacabana, Rio de Janeiro https://t.co/pe8oiUJt33",
+          "type": "T",
+          "embedLink": "twitter.com/LuangelysPaula/status/1334971277119946754",
+          "tweetLink": "twitter.com/i/web/status/1334971277119946754",
+          "profileImg": "https://pbs.twimg.com/profile_images/1230184166991548417/4SOdy2DA_normal.jpg",
+          "username": "Luangelys De Paula:LuangelysPaula",
+          "place": {
+            "name": "Rio de Janeiro",
+            "full_name": "Rio de Janeiro, Brasil",
+            "country_code": "BR",
+            "country": "Brasil"
+          },
+          "geo": [
+            -43.18069722,
+            -22.96703333
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 21:24:41 +0000 2020",
+          "text": "Just posted a photo @ La Empanada Loca https://t.co/TWOAVS5Ppx",
+          "type": "T",
+          "embedLink": "twitter.com/LaEmpanadaLoca/status/1334971914532626435",
+          "tweetLink": "twitter.com/i/web/status/1334971914532626435",
+          "profileImg": "https://pbs.twimg.com/profile_images/1188142823448698881/utqZWH4s_normal.jpg",
+          "username": "LaEmpanadaLoca:LaEmpanadaLoca",
+          "place": {
+            "name": "Oakland Park",
+            "full_name": "Oakland Park, FL",
+            "country_code": "US",
+            "country": "United States"
+          },
+          "geo": [
+            -80.13438409,
+            26.18651958
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 22:16:36 +0000 2020",
+          "text": "Just posted a photo @ Bay Paws https://t.co/7oH6OKqQak",
+          "type": "T",
+          "embedLink": "twitter.com/bay_paws/status/1334984979823136770",
+          "tweetLink": "twitter.com/i/web/status/1334984979823136770",
+          "profileImg": "https://pbs.twimg.com/profile_images/1296426406533111810/oxoXIUWj_normal.jpg",
+          "username": "Bay Paws Pet Resort:bay_paws",
+          "place": {
+            "name": "South Highpoint",
+            "full_name": "South Highpoint, FL",
+            "country_code": "US",
+            "country": "United States"
+          },
+          "geo": [
+            -82.69667,
+            27.8958
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 22:16:37 +0000 2020",
+          "text": "Acabou de publicar uma foto em Morro do Pai Inácio https://t.co/G9L1wGukkf",
+          "type": "T",
+          "embedLink": "twitter.com/conecta_chapada/status/1334984983862259713",
+          "tweetLink": "twitter.com/i/web/status/1334984983862259713",
+          "profileImg": "https://pbs.twimg.com/profile_images/1320592343469330434/HQlmVnhb_normal.jpg",
+          "username": "Conecta Chapada:conecta_chapada",
+          "place": {
+            "name": "Salvador",
+            "full_name": "Salvador, Brazil",
+            "country_code": "BR",
+            "country": "Brazil"
+          },
+          "geo": [
+            -38.41284276,
+            -12.94118469
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 22:20:25 +0000 2020",
+          "text": "Acabou de publicar uma foto em Arcos MG -  A Nossa Cidade https://t.co/hZSMDCkY5T",
+          "type": "T",
+          "embedLink": "twitter.com/tembase/status/1334985940411015168",
+          "tweetLink": "twitter.com/i/web/status/1334985940411015168",
+          "profileImg": "https://pbs.twimg.com/profile_images/1132278655625961472/zDA1hqJP_normal.jpg",
+          "username": "tembase:tembase",
+          "place": {
+            "name": "Arcos",
+            "full_name": "Arcos, Brasil",
+            "country_code": "BR",
+            "country": "Brasil"
+          },
+          "geo": [
+            -45.53394373,
+            -20.28241441
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 22:20:27 +0000 2020",
+          "text": "Just posted a photo @ The Hive Eugene https://t.co/8zQOzxkdEq",
+          "type": "T",
+          "embedLink": "twitter.com/TheHiveEugene/status/1334985948665360384",
+          "tweetLink": "twitter.com/i/web/status/1334985948665360384",
+          "profileImg": "https://pbs.twimg.com/profile_images/1179425095732940800/7XaVmjZO_normal.jpg",
+          "username": "The Hive Eugene :TheHiveEugene",
+          "place": {
+            "name": "Eugene",
+            "full_name": "Eugene, OR",
+            "country_code": "US",
+            "country": "United States"
+          },
+          "geo": [
+            -123.08535,
+            44.04595
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 22:21:33 +0000 2020",
+          "text": "Just posted a photo @ London, United Kingdom https://t.co/4iMBbYzNlu",
+          "type": "T",
+          "embedLink": "twitter.com/herfavfood/status/1334986225363595266",
+          "tweetLink": "twitter.com/i/web/status/1334986225363595266",
+          "profileImg": "https://pbs.twimg.com/profile_images/894680891238297601/uG5_gDqz_normal.jpg",
+          "username": "Her Favourite Food & Travel ✈️🍲:herfavfood",
+          "place": {
+            "name": "City of London",
+            "full_name": "City of London, London",
+            "country_code": "GB",
+            "country": "United Kingdom"
+          },
+          "geo": [
+            -0.1094,
+            51.5141
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 22:25:31 +0000 2020",
+          "text": "Just posted a photo @ Los Angeles, California https://t.co/TvfkzoT2LQ",
+          "type": "T",
+          "embedLink": "twitter.com/JohnMunizArt/status/1334987223759020039",
+          "tweetLink": "twitter.com/i/web/status/1334987223759020039",
+          "profileImg": "https://pbs.twimg.com/profile_images/957890326777159681/PRLqJdLV_normal.jpg",
+          "username": "John Muniz Art:JohnMunizArt",
+          "place": {
+            "name": "Los Angeles",
+            "full_name": "Los Angeles, CA",
+            "country_code": "US",
+            "country": "United States"
+          },
+          "geo": [
+            -118.2445,
+            34.0564
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 22:26:00 +0000 2020",
+          "text": "Just posted a photo @ Bayshore Arts District Naples https://t.co/xcQaaFTaHd",
+          "type": "T",
+          "embedLink": "twitter.com/jameshinson14/status/1334987345255337984",
+          "tweetLink": "twitter.com/i/web/status/1334987345255337984",
+          "profileImg": "https://pbs.twimg.com/profile_images/933357989901357057/NhVyytYK_normal.jpg",
+          "username": "James Dean Hinson, P.A.:jameshinson14",
+          "place": {
+            "name": "Florida",
+            "full_name": "Florida, USA",
+            "country_code": "US",
+            "country": "United States"
+          },
+          "geo": [
+            -81.77046776,
+            26.1186062
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 22:26:43 +0000 2020",
+          "text": "Just posted a photo @ Gardiner Houlgate https://t.co/zFfj9Fw425",
+          "type": "T",
+          "embedLink": "twitter.com/guitar_auctions/status/1334987525744590848",
+          "tweetLink": "twitter.com/i/web/status/1334987525744590848",
+          "profileImg": "https://pbs.twimg.com/profile_images/1197887967974608896/FYqkSzdK_normal.jpg",
+          "username": "Guitar Auctions at Gardiner Houlgate:guitar_auctions",
+          "place": {
+            "name": "Corsham",
+            "full_name": "Corsham, England",
+            "country_code": "GB",
+            "country": "United Kingdom"
+          },
+          "geo": [
+            -2.20020462,
+            51.41917126
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 22:27:07 +0000 2020",
+          "text": "Acaba de publicar una foto en Granada, España https://t.co/5mRRECMT03",
+          "type": "T",
+          "embedLink": "twitter.com/decoracionarabe/status/1334987626345074689",
+          "tweetLink": "twitter.com/i/web/status/1334987626345074689",
+          "profileImg": "https://pbs.twimg.com/profile_images/872502526/mosaico_andalusi-01-alhambra-499x500_normal.jpg",
+          "username": "decoracion-arabe.com:decoracionarabe",
+          "place": {
+            "name": "Víznar",
+            "full_name": "Víznar, España",
+            "country_code": "ES",
+            "country": "España"
+          },
+          "geo": [
+            -3.552216,
+            37.233906
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 22:27:46 +0000 2020",
+          "text": "Just posted a photo @ Lake Eola Park https://t.co/cn8DXwpXeQ",
+          "type": "T",
+          "embedLink": "twitter.com/Razuedoe/status/1334987790040395893",
+          "tweetLink": "twitter.com/i/web/status/1334987790040395893",
+          "profileImg": "https://pbs.twimg.com/profile_images/1314210043772895236/sAKqRxuQ_normal.jpg",
+          "username": "ＶｈｅｅＥｙｅＰｅｅ™🌐:Razuedoe",
+          "place": {
+            "name": "Orlando",
+            "full_name": "Orlando, FL",
+            "country_code": "US",
+            "country": "United States"
+          },
+          "geo": [
+            -81.37290001,
+            28.54418216
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 22:27:55 +0000 2020",
+          "text": "Acabou de publicar uma foto em Copacabana, Rio de Janeiro https://t.co/UmZMwH6o1q",
+          "type": "T",
+          "embedLink": "twitter.com/LuangelysPaula/status/1334987827872927746",
+          "tweetLink": "twitter.com/i/web/status/1334987827872927746",
+          "profileImg": "https://pbs.twimg.com/profile_images/1230184166991548417/4SOdy2DA_normal.jpg",
+          "username": "Luangelys De Paula:LuangelysPaula",
+          "place": {
+            "name": "Rio de Janeiro",
+            "full_name": "Rio de Janeiro, Brasil",
+            "country_code": "BR",
+            "country": "Brasil"
+          },
+          "geo": [
+            -43.18069722,
+            -22.96703333
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 22:28:12 +0000 2020",
+          "text": "Just posted a photo @ TK SHIBUYA https://t.co/zSqny6TI69",
+          "type": "T",
+          "embedLink": "twitter.com/__luvanna___/status/1334987899075440640",
+          "tweetLink": "twitter.com/i/web/status/1334987899075440640",
+          "profileImg": "https://pbs.twimg.com/profile_images/1308513693735350272/92_ab0zu_normal.jpg",
+          "username": "ＡＮＮＡ:__luvanna___",
+          "place": {
+            "name": "渋谷区",
+            "full_name": "東京 渋谷区",
+            "country_code": "JP",
+            "country": "日本"
+          },
+          "geo": [
+            139.69854891,
+            35.66098579
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 22:29:11 +0000 2020",
+          "text": "@kelseysac with @bret.jolly show starts #6pm with the best in #southerncomfort #food and #drinks @ Kelsey's Atlanti… https://t.co/ZPbwluSaE2",
+          "type": "T",
+          "embedLink": "twitter.com/AlTFromAC1/status/1334988146338099200",
+          "tweetLink": "twitter.com/i/web/status/1334988146338099200",
+          "profileImg": "https://pbs.twimg.com/profile_images/1326155485507149824/FvHmJblC_normal.jpg",
+          "username": "Al T From AC:AlTFromAC1",
+          "place": {
+            "name": "Atlantic City",
+            "full_name": "Atlantic City, NJ",
+            "country_code": "US",
+            "country": "United States"
+          },
+          "geo": [
+            -74.42949413,
+            39.35982444
+          ],
+          "hashtags": [
+            "6pm",
+            "southerncomfort",
+            "food",
+            "drinks"
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 22:29:47 +0000 2020",
+          "text": "Just posted a photo @ Bryant, Arkansas https://t.co/36tET8fkRf",
+          "type": "T",
+          "embedLink": "twitter.com/vDracalv/status/1334988297471467523",
+          "tweetLink": "twitter.com/i/web/status/1334988297471467523",
+          "profileImg": "https://pbs.twimg.com/profile_images/1297246382483546112/mwpS6Nkv_normal.jpg",
+          "username": "ArikStein:vDracalv",
+          "place": {
+            "name": "Bryant",
+            "full_name": "Bryant, AR",
+            "country_code": "US",
+            "country": "United States"
+          },
+          "geo": [
+            -92.4915,
+            34.6135
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 22:30:03 +0000 2020",
+          "text": "A decisão se baseia na avaliação de todos os indicadores e relatórios sobre a Covid-19 no Ceará desenvolvidos pelos… https://t.co/64wwDiXGYb",
+          "type": "T",
+          "embedLink": "twitter.com/TvPirambu/status/1334988364534214657",
+          "tweetLink": "twitter.com/i/web/status/1334988364534214657",
+          "profileImg": "https://pbs.twimg.com/profile_images/1331684950387593217/7AJSANrC_normal.jpg",
+          "username": "Pirambu News:TvPirambu",
+          "geo": [
+            -38.5,
+            -3.71667
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 22:30:10 +0000 2020",
+          "text": "Just posted a photo @ Gonzaga College High School https://t.co/lEbKq9QLya",
+          "type": "T",
+          "embedLink": "twitter.com/GonzagaGoodNews/status/1334988393948778497",
+          "tweetLink": "twitter.com/i/web/status/1334988393948778497",
+          "profileImg": "https://pbs.twimg.com/profile_images/767685137698000904/kSeWRvfW_normal.jpg",
+          "username": "GonzagaCHS:GonzagaGoodNews",
+          "place": {
+            "name": "Washington",
+            "full_name": "Washington, DC",
+            "country_code": "US",
+            "country": "United States"
+          },
+          "geo": [
+            -77.01042713,
+            38.90171686
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 22:30:20 +0000 2020",
+          "text": "Current #weather in #Jacaraú, Partly cloudy with a #temperature of 27 degrees celsius. Keep track of the weather in… https://t.co/QXq4TJrFCv",
+          "type": "T",
+          "embedLink": "twitter.com/BowvieWeather/status/1334988435828830213",
+          "tweetLink": "twitter.com/i/web/status/1334988435828830213",
+          "profileImg": "https://pbs.twimg.com/profile_images/1211755876614361090/MASF3iyw_normal.png",
+          "username": "Bowvie Weather:BowvieWeather",
+          "place": {
+            "name": "Jacaraú",
+            "full_name": "Jacaraú, Brasil",
+            "country_code": "BR",
+            "country": "Brazilië"
+          },
+          "geo": [
+            -35.2928,
+            -6.6122
+          ],
+          "hashtags": [
+            "weather",
+            "Jacaraú",
+            "temperature"
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 22:31:30 +0000 2020",
+          "text": "Az önce bir fotoğraf paylaştı @ Istanbul Bakırköy https://t.co/uXKkHAjivo",
+          "type": "T",
+          "embedLink": "twitter.com/uzunsalih52/status/1334988729501495298",
+          "tweetLink": "twitter.com/i/web/status/1334988729501495298",
+          "profileImg": "https://pbs.twimg.com/profile_images/2897329388/3eb48ed5ddd88edfded8edb5193c1a1f_normal.jpeg",
+          "username": "Salih Uzun:uzunsalih52",
+          "place": {
+            "name": "İstanbul",
+            "full_name": "İstanbul, Türkiye",
+            "country_code": "TR",
+            "country": "Türkiye"
+          },
+          "geo": [
+            28.8839089,
+            40.9934984
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 22:32:06 +0000 2020",
+          "text": "Acaba de publicar una foto en Yosemite National Park https://t.co/9yMlq11c37",
+          "type": "T",
+          "embedLink": "twitter.com/jischaab/status/1334988880445992960",
+          "tweetLink": "twitter.com/i/web/status/1334988880445992960",
+          "profileImg": "https://pbs.twimg.com/profile_images/841054237870174209/it8Zvhgo_normal.jpg",
+          "username": "juan Ignacio Schaab:jischaab",
+          "place": {
+            "name": "California",
+            "full_name": "California, USA",
+            "country_code": "US",
+            "country": "Estados Unidos"
+          },
+          "geo": [
+            -119.52575684,
+            37.84883251
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 22:32:10 +0000 2020",
+          "text": "Acabou de publicar uma foto em Brazil https://t.co/FKw4zJnXig",
+          "type": "T",
+          "embedLink": "twitter.com/IvanaSa20831788/status/1334988897324060672",
+          "tweetLink": "twitter.com/i/web/status/1334988897324060672",
+          "profileImg": "https://pbs.twimg.com/profile_images/1239837721100722176/4SUGHgcW_normal.jpg",
+          "username": "Ivana Santos:IvanaSa20831788",
+          "place": {
+            "name": "São Félix do Araguaia",
+            "full_name": "São Félix do Araguaia, Brasil",
+            "country_code": "BR",
+            "country": "Brasil"
+          },
+          "geo": [
+            -53,
+            -11
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 22:32:44 +0000 2020",
+          "text": "Just posted a photo @ Las Vegas, Nevada https://t.co/laOnl0uLiV",
+          "type": "T",
+          "embedLink": "twitter.com/LASoldierofKY/status/1334989039838105601",
+          "tweetLink": "twitter.com/i/web/status/1334989039838105601",
+          "profileImg": "https://pbs.twimg.com/profile_images/837760469024698368/As79fJzE_normal.jpg",
+          "username": "NelsonMartinVIPHost:LASoldierofKY",
+          "place": {
+            "name": "Las Vegas",
+            "full_name": "Las Vegas, NV",
+            "country_code": "US",
+            "country": "United States"
+          },
+          "geo": [
+            -115.149,
+            36.1675
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 22:33:01 +0000 2020",
+          "text": "Just posted a photo @ Cornell University https://t.co/PLrcmdslcW",
+          "type": "T",
+          "embedLink": "twitter.com/francesco212/status/1334989111246155776",
+          "tweetLink": "twitter.com/i/web/status/1334989111246155776",
+          "profileImg": "https://pbs.twimg.com/profile_images/1256677382511046657/cONrcDPD_normal.jpg",
+          "username": "Francesco:francesco212",
+          "place": {
+            "name": "Ithaca",
+            "full_name": "Ithaca, NY",
+            "country_code": "US",
+            "country": "United States"
+          },
+          "geo": [
+            -76.48,
+            42.45
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 22:33:06 +0000 2020",
+          "text": "Just posted a photo @ Cakes By Cynthia https://t.co/KLPmQXFuoH",
+          "type": "T",
+          "embedLink": "twitter.com/Cakesbycynthia2/status/1334989132179894272",
+          "tweetLink": "twitter.com/i/web/status/1334989132179894272",
+          "profileImg": "https://pbs.twimg.com/profile_images/1009565945566781441/TCWT_jDR_normal.jpg",
+          "username": "Cakes by Cynthia:Cakesbycynthia2",
+          "place": {
+            "name": "Arbutus",
+            "full_name": "Arbutus, MD",
+            "country_code": "US",
+            "country": "United States"
+          },
+          "geo": [
+            -76.66852501,
+            39.25042441
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 22:33:56 +0000 2020",
+          "text": "Just posted a photo @ Cornell University https://t.co/l34t7JR4Z3",
+          "type": "T",
+          "embedLink": "twitter.com/francesco212/status/1334989341936979969",
+          "tweetLink": "twitter.com/i/web/status/1334989341936979969",
+          "profileImg": "https://pbs.twimg.com/profile_images/1256677382511046657/cONrcDPD_normal.jpg",
+          "username": "Francesco:francesco212",
+          "place": {
+            "name": "Ithaca",
+            "full_name": "Ithaca, NY",
+            "country_code": "US",
+            "country": "United States"
+          },
+          "geo": [
+            -76.48,
+            42.45
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 22:34:45 +0000 2020",
+          "text": "Acabou de publicar uma foto em Climap https://t.co/QfYR4MjXwZ",
+          "type": "T",
+          "embedLink": "twitter.com/juvlodentista/status/1334989547466338305",
+          "tweetLink": "twitter.com/i/web/status/1334989547466338305",
+          "profileImg": "https://pbs.twimg.com/profile_images/1297825762393960448/n_LpTOwU_normal.jpg",
+          "username": "a sua dentista 💋:juvlodentista",
+          "place": {
+            "name": "Macapá",
+            "full_name": "Macapá, Brasil",
+            "country_code": "BR",
+            "country": "Brasil"
+          },
+          "geo": [
+            -51.06274724,
+            0.04253983
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 22:34:52 +0000 2020",
+          "text": "Sola, con mi soledad,🍔🍔🥤 #SinMiMau :( (@ La Ola Marina in Ciudad de México, DF) https://t.co/xrA6whk7dz https://t.co/Fn9TkZhphl",
+          "type": "T",
+          "embedLink": "twitter.com/Mahilaaa/status/1334989576373407749",
+          "tweetLink": "twitter.com/i/web/status/1334989576373407749",
+          "profileImg": "https://pbs.twimg.com/profile_images/1012327080862928898/ErDpKuQ8_normal.jpg",
+          "username": "Mahila:Mahilaaa",
+          "place": {
+            "name": "Cuauhtémoc",
+            "full_name": "Cuauhtémoc, Distrito Federal",
+            "country_code": "MX",
+            "country": "México"
+          },
+          "geo": [
+            -99.17071965,
+            19.42223219
+          ],
+          "imgLink": [
+            "https://pbs.twimg.com/media/EobV8gqXUAEd2Rc.jpg"
+          ],
+          "hashtags": [
+            "SinMiMau"
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 22:35:16 +0000 2020",
+          "text": "Just posted a photo @ Boston Pizza https://t.co/jBBVmml4fS",
+          "type": "T",
+          "embedLink": "twitter.com/GerryBrandt/status/1334989677133225984",
+          "tweetLink": "twitter.com/i/web/status/1334989677133225984",
+          "profileImg": "https://pbs.twimg.com/profile_images/1306724991581462529/qqM8lYJ__normal.jpg",
+          "username": "Gerry Brandt:GerryBrandt",
+          "place": {
+            "name": "Whitehorse",
+            "full_name": "Whitehorse, Yukon",
+            "country_code": "CA",
+            "country": "Canada"
+          },
+          "geo": [
+            -135.0613848,
+            60.7297715
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 22:35:56 +0000 2020",
+          "text": "Just posted a photo @ Elegant Events by Denise https://t.co/xrpne42X7w",
+          "type": "T",
+          "embedLink": "twitter.com/eleganteventsby/status/1334989845287071745",
+          "tweetLink": "twitter.com/i/web/status/1334989845287071745",
+          "profileImg": "https://pbs.twimg.com/profile_images/1004590821092548608/4-pK5kaR_normal.jpg",
+          "username": "Denise Fenn:eleganteventsby",
+          "place": {
+            "name": "Barnston",
+            "full_name": "Barnston, East",
+            "country_code": "GB",
+            "country": "United Kingdom"
+          },
+          "geo": [
+            0.37911691,
+            51.85119369
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 22:36:01 +0000 2020",
+          "text": "Just posted a photo @ Washington D.C. https://t.co/KXzZyS5fzn",
+          "type": "T",
+          "embedLink": "twitter.com/hstreetcatwalk/status/1334989866170523651",
+          "tweetLink": "twitter.com/i/web/status/1334989866170523651",
+          "profileImg": "https://pbs.twimg.com/profile_images/515855119624454144/ExNdAWWA_normal.jpeg",
+          "username": "Carolyn:hstreetcatwalk",
+          "place": {
+            "name": "Washington",
+            "full_name": "Washington, DC",
+            "country_code": "US",
+            "country": "United States"
+          },
+          "geo": [
+            -77.0367,
+            38.8951
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 22:36:30 +0000 2020",
+          "text": "Just posted a photo @ Sun Kissed Glow https://t.co/Bga0LSGdMt",
+          "type": "T",
+          "embedLink": "twitter.com/SunKissedMobile/status/1334989987771785219",
+          "tweetLink": "twitter.com/i/web/status/1334989987771785219",
+          "profileImg": "https://pbs.twimg.com/profile_images/978865182272303104/4LsTJmdj_normal.jpg",
+          "username": "Sun Kissed Glow:SunKissedMobile",
+          "place": {
+            "name": "Bridgeport",
+            "full_name": "Bridgeport, CT",
+            "country_code": "US",
+            "country": "United States"
+          },
+          "geo": [
+            -73.2288298,
+            41.1560609
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 22:36:33 +0000 2020",
+          "text": "Acabou de publicar uma foto em Jd das Imbuías https://t.co/x6FPVcXszo",
+          "type": "T",
+          "embedLink": "twitter.com/ZEZEEEE/status/1334990000308543494",
+          "tweetLink": "twitter.com/i/web/status/1334990000308543494",
+          "profileImg": "https://pbs.twimg.com/profile_images/54378504/2008-05-17_festa_vai_004_normal.jpg",
+          "username": "ZEZEEEE:ZEZEEEE",
+          "place": {
+            "name": "Sao Paulo",
+            "full_name": "Sao Paulo, Brazil",
+            "country_code": "BR",
+            "country": "Brazil"
+          },
+          "geo": [
+            -46.70735306,
+            -23.72989749
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 22:36:38 +0000 2020",
+          "text": "Just posted a photo @ القلعه https://t.co/wkWmoJF7kj",
+          "type": "T",
+          "embedLink": "twitter.com/DedalumTV/status/1334990021368090627",
+          "tweetLink": "twitter.com/i/web/status/1334990021368090627",
+          "profileImg": "https://pbs.twimg.com/profile_images/826742563797364736/kyWl-rIu_normal.jpg",
+          "username": "Dedalum TV:DedalumTV",
+          "place": {
+            "name": "القاهرة",
+            "full_name": "القاهرة, مصر",
+            "country_code": "EG",
+            "country": "مصر"
+          },
+          "geo": [
+            31.2656631,
+            30.03110159
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 23:04:34 +0000 2020",
+          "text": "Acabou de publicar uma foto em Parque Residencial Cocaia - Zona Sul https://t.co/fmvaBqosRM",
+          "type": "T",
+          "embedLink": "twitter.com/kbcaoficial/status/1334997050921000961",
+          "tweetLink": "twitter.com/i/web/status/1334997050921000961",
+          "profileImg": "https://pbs.twimg.com/profile_images/1294141792191836167/e5MknrQH_normal.jpg",
+          "username": "kbça M.C. (Rapper):kbcaoficial",
+          "place": {
+            "name": "São Paulo",
+            "full_name": "São Paulo, Brasil",
+            "country_code": "BR",
+            "country": "Brasil"
+          },
+          "geo": [
+            -46.6690216,
+            -23.7453795
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 23:05:02 +0000 2020",
+          "text": "Imatge actual de Breda. https://t.co/UP7a9J59zA #meteocat #arameteo #324meteo #CMI https://t.co/3x2iwiKFHn",
+          "type": "T",
+          "embedLink": "twitter.com/meteobreda/status/1334997168101453824",
+          "tweetLink": "twitter.com/i/web/status/1334997168101453824",
+          "profileImg": "https://pbs.twimg.com/profile_images/457826921871859712/Tm6pnh4g_normal.jpeg",
+          "username": "meteobreda:meteobreda",
+          "place": {
+            "name": "Breda",
+            "full_name": "Breda, España",
+            "country_code": "ES",
+            "country": "España"
+          },
+          "geo": [
+            2.560911,
+            41.748582
+          ],
+          "imgLink": [
+            "https://pbs.twimg.com/media/Eobc2WeXMAUFvau.jpg"
+          ],
+          "hashtags": [
+            "meteocat",
+            "arameteo",
+            "324meteo",
+            "CMI"
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 23:05:24 +0000 2020",
+          "text": "Acabou de publicar uma foto em Copacabana, Rio de Janeiro https://t.co/pJeBFoZ1au",
+          "type": "T",
+          "embedLink": "twitter.com/LuangelysPaula/status/1334997260673937409",
+          "tweetLink": "twitter.com/i/web/status/1334997260673937409",
+          "profileImg": "https://pbs.twimg.com/profile_images/1230184166991548417/4SOdy2DA_normal.jpg",
+          "username": "Luangelys De Paula:LuangelysPaula",
+          "place": {
+            "name": "Rio de Janeiro",
+            "full_name": "Rio de Janeiro, Brasil",
+            "country_code": "BR",
+            "country": "Brasil"
+          },
+          "geo": [
+            -43.18069722,
+            -22.96703333
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 23:05:36 +0000 2020",
+          "text": "Just posted a photo @ Jakarta, Indonesia https://t.co/m1ErxJlH9m",
+          "type": "T",
+          "embedLink": "twitter.com/coconamara/status/1334997310976053248",
+          "tweetLink": "twitter.com/i/web/status/1334997310976053248",
+          "profileImg": "https://pbs.twimg.com/profile_images/785170293/3029_1079775446296_1583606661_178079_5680746_n_normal.jpg",
+          "username": "koko namara:coconamara",
+          "place": {
+            "name": "Tanah Abang",
+            "full_name": "Tanah Abang, Indonesia",
+            "country_code": "ID",
+            "country": "Indonesia"
+          },
+          "geo": [
+            106.8233,
+            -6.1803
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 23:06:09 +0000 2020",
+          "text": "Acaba de publicar una foto en Jarabacoa https://t.co/OFJRV14O4G",
+          "type": "T",
+          "embedLink": "twitter.com/PegueroRafael/status/1334997449497305093",
+          "tweetLink": "twitter.com/i/web/status/1334997449497305093",
+          "profileImg": "https://pbs.twimg.com/profile_images/690645231595757569/te_hKA3Y_normal.jpg",
+          "username": "PegueroRafael:PegueroRafael",
+          "place": {
+            "name": "Jarabacoa",
+            "full_name": "Jarabacoa, Dominican Republic",
+            "country_code": "DO",
+            "country": "Dominican Republic"
+          },
+          "geo": [
+            -70.64228,
+            19.12033
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 23:06:46 +0000 2020",
+          "text": "Just posted a photo @ The Shard Studio, LLC https://t.co/YqPElEGVH5",
+          "type": "T",
+          "embedLink": "twitter.com/JeannePhilippus/status/1334997604422340614",
+          "tweetLink": "twitter.com/i/web/status/1334997604422340614",
+          "profileImg": "https://pbs.twimg.com/profile_images/937795035449516032/IxmFxbW5_normal.jpg",
+          "username": "The Shard Studio:JeannePhilippus",
+          "place": {
+            "name": "San Antonio",
+            "full_name": "San Antonio, TX",
+            "country_code": "US",
+            "country": "United States"
+          },
+          "geo": [
+            -98.52136669,
+            29.60721386
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 23:07:08 +0000 2020",
+          "text": "Acaba de publicar una foto en Acevedo, Buenos Aires, Argentina https://t.co/qAmsjUfNCm",
+          "type": "T",
+          "embedLink": "twitter.com/DanaberryDaniel/status/1334997697053552640",
+          "tweetLink": "twitter.com/i/web/status/1334997697053552640",
+          "profileImg": "https://pbs.twimg.com/profile_images/843833469172142080/TrmVzrME_normal.jpg",
+          "username": "Daniel Danaberry​:DanaberryDaniel",
+          "place": {
+            "name": "Buenos Aires",
+            "full_name": "Buenos Aires, Argentina",
+            "country_code": "AR",
+            "country": "Argentina"
+          },
+          "geo": [
+            -60.43971158,
+            -33.75510294
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 23:07:19 +0000 2020",
+          "text": "Just posted a photo @ Keys DAN https://t.co/rdgLAXuUft",
+          "type": "T",
+          "embedLink": "twitter.com/KeysDAN/status/1334997742997868546",
+          "tweetLink": "twitter.com/i/web/status/1334997742997868546",
+          "profileImg": "https://pbs.twimg.com/profile_images/453033118702641155/OFmEIOdo_normal.png",
+          "username": "KeysDAN:KeysDAN",
+          "place": {
+            "name": "Conway",
+            "full_name": "Conway, AR",
+            "country_code": "US",
+            "country": "United States"
+          },
+          "geo": [
+            -92.42989343,
+            35.08727069
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 23:09:38 +0000 2020",
+          "text": "Just posted a photo @ Cohasset, Massachusetts https://t.co/BkGdduSsRT",
+          "type": "T",
+          "embedLink": "twitter.com/sheffieldphotog/status/1334998325913858054",
+          "tweetLink": "twitter.com/i/web/status/1334998325913858054",
+          "profileImg": "https://pbs.twimg.com/profile_images/797994504745811969/ZmF7fI7f_normal.jpg",
+          "username": "Stephen Sheffield:sheffieldphotog",
+          "place": {
+            "name": "Cohasset",
+            "full_name": "Cohasset, MA",
+            "country_code": "US",
+            "country": "United States"
+          },
+          "geo": [
+            -70.80416667,
+            42.24166667
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 23:10:50 +0000 2020",
+          "text": "Just posted a photo @ Brightway Fashion https://t.co/DOstfTRgsS",
+          "type": "T",
+          "embedLink": "twitter.com/_brytwayfashion/status/1334998628159647744",
+          "tweetLink": "twitter.com/i/web/status/1334998628159647744",
+          "profileImg": "https://pbs.twimg.com/profile_images/1324771109628235779/nwgWvyDH_normal.jpg",
+          "username": "Brightway Fashion:_brytwayfashion",
+          "place": {
+            "name": "Abuja",
+            "full_name": "Abuja, Nigeria",
+            "country_code": "NG",
+            "country": "Nigeria"
+          },
+          "geo": [
+            7.47617,
+            9.07236
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 23:11:25 +0000 2020",
+          "text": "Just posted a photo @ Benihana https://t.co/MULneLfTFN",
+          "type": "T",
+          "embedLink": "twitter.com/kingsean59/status/1334998774318575617",
+          "tweetLink": "twitter.com/i/web/status/1334998774318575617",
+          "profileImg": "https://pbs.twimg.com/profile_images/1320824822444617728/QsBWFyQB_normal.jpg",
+          "username": "sean broxie:kingsean59",
+          "place": {
+            "name": "Burlingame",
+            "full_name": "Burlingame, CA",
+            "country_code": "US",
+            "country": "United States"
+          },
+          "geo": [
+            -122.36434688,
+            37.5982648
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 23:12:31 +0000 2020",
+          "text": "Just posted a photo @ Cirencester, Gloucestershire https://t.co/NEYc9Py5qa",
+          "type": "T",
+          "embedLink": "twitter.com/ecoply/status/1334999051679526915",
+          "tweetLink": "twitter.com/i/web/status/1334999051679526915",
+          "profileImg": "https://pbs.twimg.com/profile_images/1296709345128964096/n6K19yHG_normal.jpg",
+          "username": "EcoPly UK:ecoply",
+          "place": {
+            "name": "Cirencester",
+            "full_name": "Cirencester, England",
+            "country_code": "GB",
+            "country": "United Kingdom"
+          },
+          "geo": [
+            -1.95354,
+            51.71855
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 23:12:48 +0000 2020",
+          "text": "Just posted a photo @ Huntington, West Virginia https://t.co/OEhqKaImen",
+          "type": "T",
+          "embedLink": "twitter.com/Bernies_Buddies/status/1334999123037184002",
+          "tweetLink": "twitter.com/i/web/status/1334999123037184002",
+          "profileImg": "https://pbs.twimg.com/profile_images/1093338189048307713/2WyksBVK_normal.jpg",
+          "username": "Bernie's Buddies:Bernies_Buddies",
+          "place": {
+            "name": "Huntington",
+            "full_name": "Huntington, WV",
+            "country_code": "US",
+            "country": "United States"
+          },
+          "geo": [
+            -82.4447,
+            38.4196
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 23:13:11 +0000 2020",
+          "text": "Suena Pau Donés &amp; Manuel Medrano! La Flaca (@ Cigar World in Santo Domingo w/ @orodcinco) https://t.co/V9pVoKEjdx https://t.co/rRodq2oT4b",
+          "type": "T",
+          "embedLink": "twitter.com/SirJuaCo/status/1334999218839298048",
+          "tweetLink": "twitter.com/i/web/status/1334999218839298048",
+          "profileImg": "https://pbs.twimg.com/profile_images/1297537155833778176/KuLw14wN_normal.jpg",
+          "username": "Papi Juancho:SirJuaCo",
+          "place": {
+            "name": "anto Domingo de Guzmán",
+            "full_name": "anto Domingo de Guzmán, Dominican Republic",
+            "country_code": "DO",
+            "country": "Dominican Republic"
+          },
+          "geo": [
+            -69.93111803,
+            18.47768941
+          ],
+          "imgLink": [
+            "https://pbs.twimg.com/media/EobetwxW8AA00QV.jpg"
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 23:13:49 +0000 2020",
+          "text": "Acaba de publicar una foto en São João de Meriti https://t.co/Qx6Kw9zvWy",
+          "type": "T",
+          "embedLink": "twitter.com/Vivicostavegan/status/1334999378965172225",
+          "tweetLink": "twitter.com/i/web/status/1334999378965172225",
+          "profileImg": "https://pbs.twimg.com/profile_images/960321548254097414/1r4Toiy__normal.jpg",
+          "username": "Viviane Pereira da Costa:Vivicostavegan",
+          "place": {
+            "name": "São João de Meriti",
+            "full_name": "São João de Meriti, Brasil",
+            "country_code": "BR",
+            "country": "Brasil"
+          },
+          "geo": [
+            -43.3666,
+            -22.7856
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 23:15:05 +0000 2020",
+          "text": "Acabou de publicar uma foto em Recife, Brazil https://t.co/VNx2ZbuNrT",
+          "type": "T",
+          "embedLink": "twitter.com/RebekahSberk/status/1334999697618919424",
+          "tweetLink": "twitter.com/i/web/status/1334999697618919424",
+          "profileImg": "https://pbs.twimg.com/profile_images/1201943112144314369/-cY1FMDZ_normal.jpg",
+          "username": "Rebekah Sberk:RebekahSberk",
+          "place": {
+            "name": "Recife",
+            "full_name": "Recife, Brasil",
+            "country_code": "BR",
+            "country": "Brasil"
+          },
+          "geo": [
+            -34.9257,
+            -8.0605
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 23:15:20 +0000 2020",
+          "text": "A recuperar energía (@ Restaurante Santa Barbara in Homún, YUC) https://t.co/YN6ZInNjXK https://t.co/v48j6x9JWr",
+          "type": "T",
+          "embedLink": "twitter.com/lazarobedolla/status/1334999760231682050",
+          "tweetLink": "twitter.com/i/web/status/1334999760231682050",
+          "profileImg": "https://pbs.twimg.com/profile_images/917461081857024000/QnMMrIWX_normal.jpg",
+          "username": "MAURICIO ROJAS:lazarobedolla",
+          "place": {
+            "name": "Cuzamá",
+            "full_name": "Cuzamá, Yucatán",
+            "country_code": "MX",
+            "country": "México"
+          },
+          "geo": [
+            -89.299793,
+            20.737811
+          ],
+          "imgLink": [
+            "https://pbs.twimg.com/media/EobfNS2XcAIoYy6.jpg"
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 23:15:27 +0000 2020",
+          "text": "Acaba de publicar una foto en Providencia, Chile https://t.co/Hd8gAp2xRm",
+          "type": "T",
+          "embedLink": "twitter.com/hovelfines_/status/1334999789847654407",
+          "tweetLink": "twitter.com/i/web/status/1334999789847654407",
+          "profileImg": "https://pbs.twimg.com/profile_images/1332677295358750720/puIcmMYB_normal.jpg",
+          "username": "🅷🅾🆅🅴🅻 🅵🅸🅽🅴🆂:hovelfines_",
+          "place": {
+            "name": "Providencia",
+            "full_name": "Providencia, Chile",
+            "country_code": "CL",
+            "country": "Chile"
+          },
+          "geo": [
+            -70.6094,
+            -33.43179
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 23:16:25 +0000 2020",
+          "text": "✨✨✨ #steel #colecciondorada #velit en Mexico City, Mexico https://t.co/EGbQxhw31F",
+          "type": "T",
+          "embedLink": "twitter.com/VelitOficial/status/1335000032576200712",
+          "tweetLink": "twitter.com/i/web/status/1335000032576200712",
+          "profileImg": "https://pbs.twimg.com/profile_images/1304511237510791168/VutBvCzU_normal.jpg",
+          "username": "Velit:VelitOficial",
+          "place": {
+            "name": "Cuauhtémoc",
+            "full_name": "Cuauhtémoc, Distrito Federal",
+            "country_code": "MX",
+            "country": "Mexico"
+          },
+          "geo": [
+            -99.1332,
+            19.4326
+          ],
+          "hashtags": [
+            "steel",
+            "colecciondorada",
+            "velit"
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 23:16:36 +0000 2020",
+          "text": "Acabou de publicar uma foto em Recreio Dos Bandeirantes, Rio De Janeiro, Brazil https://t.co/TiLucyrLVN",
+          "type": "T",
+          "embedLink": "twitter.com/Drareginamansu1/status/1335000079359500289",
+          "tweetLink": "twitter.com/i/web/status/1335000079359500289",
+          "profileImg": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+          "username": "Drareginamansuresiqueira:Drareginamansu1",
+          "place": {
+            "name": "Rio de Janeiro",
+            "full_name": "Rio de Janeiro, Brasil",
+            "country_code": "BR",
+            "country": "Brasil"
+          },
+          "geo": [
+            -43.4689,
+            -23.0178
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 23:16:40 +0000 2020",
+          "text": "Acaba de publicar una foto en La Nou De Gaià https://t.co/1ZiBb8czpZ",
+          "type": "T",
+          "embedLink": "twitter.com/RamosCasanoves/status/1335000096145018882",
+          "tweetLink": "twitter.com/i/web/status/1335000096145018882",
+          "profileImg": "https://pbs.twimg.com/profile_images/964917909985398789/ckT8HtNE_normal.jpg",
+          "username": "MARIA MERCÈ:RamosCasanoves",
+          "place": {
+            "name": "la Nou de Gaià",
+            "full_name": "la Nou de Gaià, Espanya",
+            "country_code": "ES",
+            "country": "Espanya"
+          },
+          "geo": [
+            1.37538048,
+            41.18258073
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 23:17:54 +0000 2020",
+          "text": "Just posted a photo @ Chicago, Illinois https://t.co/bf2kJD2B3q",
+          "type": "T",
+          "embedLink": "twitter.com/AndreaMiklasz/status/1335000406456291329",
+          "tweetLink": "twitter.com/i/web/status/1335000406456291329",
+          "profileImg": "https://pbs.twimg.com/profile_images/1271160229372313600/WJaUJU3N_normal.jpg",
+          "username": "Andrea Miklasz:AndreaMiklasz",
+          "place": {
+            "name": "Chicago",
+            "full_name": "Chicago, IL",
+            "country_code": "US",
+            "country": "United States"
+          },
+          "geo": [
+            -87.632496,
+            41.883222
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 23:18:52 +0000 2020",
+          "text": "Just posted a photo @ Clark County Skills Center https://t.co/nLcZ8gtm7S",
+          "type": "T",
+          "embedLink": "twitter.com/Cascadiatech1/status/1335000649667317760",
+          "tweetLink": "twitter.com/i/web/status/1335000649667317760",
+          "profileImg": "https://pbs.twimg.com/profile_images/925499268827197440/JqApz-RG_normal.jpg",
+          "username": "CascadiaTechAcademy:Cascadiatech1",
+          "place": {
+            "name": "Vancouver",
+            "full_name": "Vancouver, WA",
+            "country_code": "US",
+            "country": "United States"
+          },
+          "geo": [
+            -122.54805685,
+            45.64423533
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 23:19:53 +0000 2020",
+          "text": "Just posted a photo @ Toronto, Ontario https://t.co/2XvuKJwFxp",
+          "type": "T",
+          "embedLink": "twitter.com/thegiftedgab/status/1335000905444298754",
+          "tweetLink": "twitter.com/i/web/status/1335000905444298754",
+          "profileImg": "https://pbs.twimg.com/profile_images/1318591900899635202/LupdPwIj_normal.jpg",
+          "username": "The Gifted Gab:thegiftedgab",
+          "place": {
+            "name": "Toronto",
+            "full_name": "Toronto, Ontario",
+            "country_code": "CA",
+            "country": "Canada"
+          },
+          "geo": [
+            -79.3872,
+            43.648
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 23:20:35 +0000 2020",
+          "text": "Just posted a photo @ Marblehead, Massachusetts https://t.co/64du7VxrgZ",
+          "type": "T",
+          "embedLink": "twitter.com/Patsywiswell/status/1335001081814765570",
+          "tweetLink": "twitter.com/i/web/status/1335001081814765570",
+          "profileImg": "https://pbs.twimg.com/profile_images/636944532379189248/bFMXoxUF_normal.jpg",
+          "username": "Patsy Kane Wiswell:Patsywiswell",
+          "place": {
+            "name": "Marblehead",
+            "full_name": "Marblehead, MA",
+            "country_code": "US",
+            "country": "United States"
+          },
+          "geo": [
+            -70.8572,
+            42.5014
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 23:20:53 +0000 2020",
+          "text": "Baru saja mengirim foto @ Bandung https://t.co/ks2YzDmhXQ",
+          "type": "T",
+          "embedLink": "twitter.com/fitriekaaaa/status/1335001157173800960",
+          "tweetLink": "twitter.com/i/web/status/1335001157173800960",
+          "profileImg": "https://pbs.twimg.com/profile_images/910893893171867648/l1faqY2D_normal.jpg",
+          "username": "Fitri Eka Handayani:fitriekaaaa",
+          "place": {
+            "name": "Sumurbandung",
+            "full_name": "Sumurbandung, Indonesia",
+            "country_code": "ID",
+            "country": "Indonesia"
+          },
+          "geo": [
+            107.6054,
+            -6.9124
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 23:49:11 +0000 2020",
+          "text": "Just posted a photo @ South Queensferry https://t.co/MfzfqFx2nP",
+          "type": "T",
+          "embedLink": "twitter.com/gary_menzies/status/1335008279194443780",
+          "tweetLink": "twitter.com/i/web/status/1335008279194443780",
+          "profileImg": "https://pbs.twimg.com/profile_images/1218506034576330752/yS0qbaeG_normal.jpg",
+          "username": "Gary Menzies:gary_menzies",
+          "place": {
+            "name": "Queensferry",
+            "full_name": "Queensferry, Scotland",
+            "country_code": "GB",
+            "country": "United Kingdom"
+          },
+          "geo": [
+            -3.39674,
+            55.99033
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 23:49:55 +0000 2020",
+          "text": "Acaba de publicar una foto en Arrecifes, Argentina https://t.co/nXQI8B0H5E",
+          "type": "T",
+          "embedLink": "twitter.com/PrimiciasArre/status/1335008463647289350",
+          "tweetLink": "twitter.com/i/web/status/1335008463647289350",
+          "profileImg": "https://pbs.twimg.com/profile_images/532535816988286976/FSujjShs_normal.png",
+          "username": "PRIMICIAS ARRECIFES:PrimiciasArre",
+          "place": {
+            "name": "Buenos Aires",
+            "full_name": "Buenos Aires, Argentina",
+            "country_code": "AR",
+            "country": "Argentina"
+          },
+          "geo": [
+            -60.10234,
+            -34.06109
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 23:50:41 +0000 2020",
+          "text": "Acaba de publicar una foto en San Cristobal - Edo Tachira https://t.co/pA1UJIJkbG",
+          "type": "T",
+          "embedLink": "twitter.com/pontepilasofi/status/1335008656618901504",
+          "tweetLink": "twitter.com/i/web/status/1335008656618901504",
+          "profileImg": "https://pbs.twimg.com/profile_images/1331405582499262464/55xs8GOg_normal.jpg",
+          "username": "Ponte Pilas Oficial:pontepilasofi",
+          "place": {
+            "name": "Táchira",
+            "full_name": "Táchira, Venezuela",
+            "country_code": "VE",
+            "country": "Venezuela"
+          },
+          "geo": [
+            -72.22002,
+            7.79335
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 23:50:42 +0000 2020",
+          "text": "寒くてブレた？ #冬 #winter #town #町 #雲 #clouds #下関 #sky #空 #島 #island #海 #sea 場所: ＧＲＯＵＮＤ　ｈａiｒ ｃｕｔ https://t.co/SeM9tvdh85",
+          "type": "T",
+          "embedLink": "twitter.com/grf696/status/1335008660867735559",
+          "tweetLink": "twitter.com/i/web/status/1335008660867735559",
+          "profileImg": "https://pbs.twimg.com/profile_images/971978892058640386/1s4ACIko_normal.jpg",
+          "username": "ground696:grf696",
+          "place": {
+            "name": "下関市",
+            "full_name": "山口 下関市",
+            "country_code": "JP",
+            "country": "日本"
+          },
+          "geo": [
+            130.92628777,
+            33.95891221
+          ],
+          "hashtags": [
+            "冬",
+            "winter",
+            "town",
+            "町",
+            "雲",
+            "clouds",
+            "下関",
+            "sky",
+            "空",
+            "島",
+            "island",
+            "海",
+            "sea"
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 23:52:05 +0000 2020",
+          "text": "Just posted a photo @ Port-au-Prince, Haiti https://t.co/8lAZTU8VlF",
+          "type": "T",
+          "embedLink": "twitter.com/FABRICELECLERC1/status/1335009008860733442",
+          "tweetLink": "twitter.com/i/web/status/1335009008860733442",
+          "profileImg": "https://pbs.twimg.com/profile_images/479323771992424450/7y_NmdrP_normal.jpeg",
+          "username": "FABRICE LECLERCQ:FABRICELECLERC1",
+          "place": {
+            "name": "Haiti",
+            "full_name": "Haiti",
+            "country_code": "HT",
+            "country": "Haiti"
+          },
+          "geo": [
+            -72.3368,
+            18.5459
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 23:52:11 +0000 2020",
+          "text": "Acabou de publicar uma foto em Salvador, Bahia https://t.co/VnFUlxG6ZF",
+          "type": "T",
+          "embedLink": "twitter.com/marimartsilva/status/1335009034181750786",
+          "tweetLink": "twitter.com/i/web/status/1335009034181750786",
+          "profileImg": "https://pbs.twimg.com/profile_images/1333070391162658819/AVHupYXT_normal.jpg",
+          "username": "Marineide Oliveira (Mari):marimartsilva",
+          "place": {
+            "name": "Salvador",
+            "full_name": "Salvador, Brasil",
+            "country_code": "BR",
+            "country": "Brasil"
+          },
+          "geo": [
+            -38.37448,
+            -12.92925
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 23:52:13 +0000 2020",
+          "text": "Acabou de publicar uma foto em São Paulo, Brazil https://t.co/fAhk8Xi1jw",
+          "type": "T",
+          "embedLink": "twitter.com/_fannyz/status/1335009042452910080",
+          "tweetLink": "twitter.com/i/web/status/1335009042452910080",
+          "profileImg": "https://pbs.twimg.com/profile_images/628642127640162305/5U_2v_KE_normal.jpg",
+          "username": "Fanny Morais:_fannyz",
+          "place": {
+            "name": "São Paulo",
+            "full_name": "São Paulo, Brasil",
+            "country_code": "BR",
+            "country": "Brasil"
+          },
+          "geo": [
+            -46.6333,
+            -23.55
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 23:54:15 +0000 2020",
+          "text": "Just posted a photo @ Brazil https://t.co/PElTcXFZvg",
+          "type": "T",
+          "embedLink": "twitter.com/BernieArchieMac/status/1335009554216738816",
+          "tweetLink": "twitter.com/i/web/status/1335009554216738816",
+          "profileImg": "https://pbs.twimg.com/profile_images/1272464540253511680/r5Lyrkm2_normal.jpg",
+          "username": "B. ArKevis Chalmers-McMorris:BernieArchieMac",
+          "place": {
+            "name": "São Félix do Araguaia",
+            "full_name": "São Félix do Araguaia, Brasil",
+            "country_code": "BR",
+            "country": "Brazil"
+          },
+          "geo": [
+            -53,
+            -11
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 23:54:18 +0000 2020",
+          "text": "I'm at バス出発ラウンジ in 大田区, 東京都 https://t.co/qbsDG80yE4 https://t.co/a0PvKVkboy",
+          "type": "T",
+          "embedLink": "twitter.com/_0_zero/status/1335009566199836672",
+          "tweetLink": "twitter.com/i/web/status/1335009566199836672",
+          "profileImg": "https://pbs.twimg.com/profile_images/784094715683545088/4vhaZnsd_normal.jpg",
+          "username": "質:_0_zero",
+          "place": {
+            "name": "大田区",
+            "full_name": "東京 大田区",
+            "country_code": "JP",
+            "country": "日本"
+          },
+          "geo": [
+            139.78737596,
+            35.55355992
+          ],
+          "imgLink": [
+            "https://pbs.twimg.com/media/EoboIELW4AYC4Be.jpg"
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 23:54:45 +0000 2020",
+          "text": "Acaba de publicar una foto en Jarabacoa https://t.co/n0mUx5ckHi",
+          "type": "T",
+          "embedLink": "twitter.com/PegueroRafael/status/1335009680163266561",
+          "tweetLink": "twitter.com/i/web/status/1335009680163266561",
+          "profileImg": "https://pbs.twimg.com/profile_images/690645231595757569/te_hKA3Y_normal.jpg",
+          "username": "PegueroRafael:PegueroRafael",
+          "place": {
+            "name": "Jarabacoa",
+            "full_name": "Jarabacoa, Dominican Republic",
+            "country_code": "DO",
+            "country": "Dominican Republic"
+          },
+          "geo": [
+            -70.64228,
+            19.12033
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 23:54:55 +0000 2020",
+          "text": "Just posted a photo @ Northern Territory https://t.co/xt2lwpc8sI",
+          "type": "T",
+          "embedLink": "twitter.com/peterkafkas/status/1335009721917591552",
+          "tweetLink": "twitter.com/i/web/status/1335009721917591552",
+          "profileImg": "https://pbs.twimg.com/profile_images/786118200912207881/mBI9OdGt_normal.jpg",
+          "username": "Peter Kafkas:peterkafkas",
+          "place": {
+            "name": "Warumungu",
+            "full_name": "Warumungu, Tennant Creek",
+            "country_code": "AU",
+            "country": "Australia"
+          },
+          "geo": [
+            133,
+            -20
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 23:55:26 +0000 2020",
+          "text": "Acaba de publicar una foto en Santiago, Chile https://t.co/ToruLktVfU",
+          "type": "T",
+          "embedLink": "twitter.com/antropomemoria/status/1335009852029014016",
+          "tweetLink": "twitter.com/i/web/status/1335009852029014016",
+          "profileImg": "https://pbs.twimg.com/profile_images/1298707487114354689/-Z_4b50p_normal.jpg",
+          "username": "Adriana Goñi Godoy:antropomemoria",
+          "place": {
+            "name": "Santiago",
+            "full_name": "Santiago, Chile",
+            "country_code": "CL",
+            "country": "Chile"
+          },
+          "geo": [
+            -70.6671,
+            -33.4498
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 23:55:41 +0000 2020",
+          "text": "Acaba de publicar una foto en Michelena, Tachira, Venezuela https://t.co/D5u39R0OfD",
+          "type": "T",
+          "embedLink": "twitter.com/MichelenaStereo/status/1335009915069317121",
+          "tweetLink": "twitter.com/i/web/status/1335009915069317121",
+          "profileImg": "https://pbs.twimg.com/profile_images/1300480416240013312/q07ztJsR_normal.jpg",
+          "username": "📌 Luisito Becerra:MichelenaStereo",
+          "place": {
+            "name": "Michelena",
+            "full_name": "Michelena, Venezuela",
+            "country_code": "VE",
+            "country": "Venezuela"
+          },
+          "geo": [
+            -72.24186,
+            7.95853
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 23:56:10 +0000 2020",
+          "text": "Acabou de publicar uma foto em Bôca Da Mata, Alagoas, Brazil https://t.co/uPKJrn4u6B",
+          "type": "T",
+          "embedLink": "twitter.com/Vanbasss/status/1335010036624527361",
+          "tweetLink": "twitter.com/i/web/status/1335010036624527361",
+          "profileImg": "https://pbs.twimg.com/profile_images/1023985625513558016/OMtfjhmn_normal.jpg",
+          "username": "Claudevan Santos:Vanbasss",
+          "place": {
+            "name": "Boca da Mata",
+            "full_name": "Boca da Mata, Brasil",
+            "country_code": "BR",
+            "country": "Brasil"
+          },
+          "geo": [
+            -36.2113,
+            -9.645
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 23:56:41 +0000 2020",
+          "text": "Just posted a photo @ Luton, London https://t.co/4H4DOvcVcv",
+          "type": "T",
+          "embedLink": "twitter.com/Arkposnike1/status/1335010166585118720",
+          "tweetLink": "twitter.com/i/web/status/1335010166585118720",
+          "profileImg": "https://pbs.twimg.com/profile_images/1161877213719015424/iLDe0vkT_normal.jpg",
+          "username": "ARKPOSNIKE MARYCRIS GIBBONS (AMG):Arkposnike1",
+          "place": {
+            "name": "Luton",
+            "full_name": "Luton, England",
+            "country_code": "GB",
+            "country": "United Kingdom"
+          },
+          "geo": [
+            -0.4163352,
+            51.88093551
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 23:57:58 +0000 2020",
+          "text": "Just posted a photo @ Canal Bar https://t.co/JY34nSUKAx",
+          "type": "T",
+          "embedLink": "twitter.com/CanalBarBKLYN/status/1335010489588445185",
+          "tweetLink": "twitter.com/i/web/status/1335010489588445185",
+          "profileImg": "https://pbs.twimg.com/profile_images/282382595/canal__bar_normal.jpg",
+          "username": "Canal Bar:CanalBarBKLYN",
+          "place": {
+            "name": "Brooklyn",
+            "full_name": "Brooklyn, NY",
+            "country_code": "US",
+            "country": "United States"
+          },
+          "geo": [
+            -73.98589,
+            40.67791
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 23:58:09 +0000 2020",
+          "text": "Just posted a photo @ Luton, London https://t.co/UVhRjpPb5t",
+          "type": "T",
+          "embedLink": "twitter.com/Arkposnike1/status/1335010535629348872",
+          "tweetLink": "twitter.com/i/web/status/1335010535629348872",
+          "profileImg": "https://pbs.twimg.com/profile_images/1161877213719015424/iLDe0vkT_normal.jpg",
+          "username": "ARKPOSNIKE MARYCRIS GIBBONS (AMG):Arkposnike1",
+          "place": {
+            "name": "Luton",
+            "full_name": "Luton, England",
+            "country_code": "GB",
+            "country": "United Kingdom"
+          },
+          "geo": [
+            -0.4163352,
+            51.88093551
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 23:58:45 +0000 2020",
+          "text": "Just posted a photo @ NLP Malaysia https://t.co/4UDpMPnZac",
+          "type": "T",
+          "embedLink": "twitter.com/fadzliyusof/status/1335010686674432000",
+          "tweetLink": "twitter.com/i/web/status/1335010686674432000",
+          "profileImg": "https://pbs.twimg.com/profile_images/3637550501/8451ffe9c75cb23fedbf1374b3ed6fc8_normal.jpeg",
+          "username": "Fadzli Yusof Albasuti:fadzliyusof",
+          "place": {
+            "name": "Ulu Kelang",
+            "full_name": "Ulu Kelang, Selangor",
+            "country_code": "MY",
+            "country": "Malaysia"
+          },
+          "geo": [
+            101.77855657,
+            3.20343521
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 23:58:47 +0000 2020",
+          "text": "Acabou de publicar uma foto em Campo Grande Zona Oeste Do Rio De Janeiro https://t.co/4fHnQFqI6k",
+          "type": "T",
+          "embedLink": "twitter.com/heberbrum/status/1335010695038066689",
+          "tweetLink": "twitter.com/i/web/status/1335010695038066689",
+          "profileImg": "https://pbs.twimg.com/profile_images/1265865261451743238/f4TfCrYI_normal.jpg",
+          "username": "H E B E R   B R U M:heberbrum",
+          "place": {
+            "name": "Rio de Janeiro",
+            "full_name": "Rio de Janeiro, Brasil",
+            "country_code": "BR",
+            "country": "Brasil"
+          },
+          "geo": [
+            -43.56036387,
+            -22.87484952
+          ]
+        },
+        {
+          "created_at": "Fri Dec 04 23:59:44 +0000 2020",
+          "text": "Just posted a photo @ Calgary, Alberta https://t.co/iK3z4OX4Y6",
+          "type": "T",
+          "embedLink": "twitter.com/sixfootcanasian/status/1335010934222434304",
+          "tweetLink": "twitter.com/i/web/status/1335010934222434304",
+          "profileImg": "https://pbs.twimg.com/profile_images/631711380006002688/VIUp0ZsP_normal.png",
+          "username": "Six Foot Canasian:sixfootcanasian",
+          "place": {
+            "name": "Calgary",
+            "full_name": "Calgary, Alberta",
+            "country_code": "CA",
+            "country": "Canada"
+          },
+          "geo": [
+            -114.057,
+            51.045
+          ]
+        },
+        {
+          "created_at": "Sat Dec 05 00:00:04 +0000 2020",
+          "text": "I 🌠 San Fernando https://t.co/3Ts2iTO4Ax",
+          "type": "T",
+          "embedLink": "twitter.com/ilovethisbot/status/1335011017714241536",
+          "tweetLink": "twitter.com/i/web/status/1335011017714241536",
+          "profileImg": "https://pbs.twimg.com/profile_images/774828242465198080/8nsm8VIM_normal.jpg",
+          "username": "I ❤️ This City:ilovethisbot",
+          "place": {
+            "name": "Trinidad and Tobago",
+            "full_name": "Trinidad and Tobago",
+            "country_code": "TT",
+            "country": "Trinidad and Tobago"
+          },
+          "geo": [
+            -61.467,
+            10.283
+          ],
+          "imgLink": [
+            "https://pbs.twimg.com/media/EobpchkXMAEHDDi.jpg"
+          ]
+        },
+        {
+          "created_at": "Sat Dec 05 00:00:08 +0000 2020",
+          "text": "https://t.co/cLVf088PvF Somewhere Louisville, 502.552.6942... https://t.co/laYXvbL9vj",
+          "type": "T",
+          "embedLink": "twitter.com/dine_here/status/1335011034566807553",
+          "tweetLink": "twitter.com/i/web/status/1335011034566807553",
+          "profileImg": "https://pbs.twimg.com/profile_images/1657084315/simps_normal.jpg",
+          "username": "DineHere.us:dine_here",
+          "place": {
+            "name": "Louisville",
+            "full_name": "Louisville, KY",
+            "country_code": "US",
+            "country": "United States"
+          },
+          "geo": [
+            -85.708414,
+            38.231687
+          ],
+          "imgLink": [
+            "https://pbs.twimg.com/media/EobpdjqVgAAnnyL.jpg"
+          ]
+        },
+        {
+          "created_at": "Sat Dec 05 00:01:08 +0000 2020",
+          "text": "ملاعب الإمارات من ساحات رملــية إلى أيقونات عالمية https://t.co/RfvpXUDoCj https://t.co/iMQtReCwwn",
+          "type": "T",
+          "embedLink": "twitter.com/newsemaratyah/status/1335011286086664192",
+          "tweetLink": "twitter.com/i/web/status/1335011286086664192",
+          "profileImg": "https://pbs.twimg.com/profile_images/1293498466535124994/eMBXbFDe_normal.jpg",
+          "username": "اخبار الامارات UAE NEWS:newsemaratyah",
+          "place": {
+            "name": "Dubai",
+            "full_name": "Dubai, United Arab Emirates",
+            "country_code": "AE",
+            "country": "United Arab Emirates"
+          },
+          "geo": [
+            55.27766705,
+            25.19812155
+          ],
+          "imgLink": [
+            "https://pbs.twimg.com/media/EobpsJ1U8AEAu7l.jpg"
+          ]
+        },
+        {
+          "created_at": "Sat Dec 05 00:01:12 +0000 2020",
+          "text": "مسؤولون أوروبيون لـ «البيان»: الإمارات دولة السلام والعلم والحضارة https://t.co/mvwTqo8ipv https://t.co/FA0Ge57Lws",
+          "type": "T",
+          "embedLink": "twitter.com/newsemaratyah/status/1335011303069401090",
+          "tweetLink": "twitter.com/i/web/status/1335011303069401090",
+          "profileImg": "https://pbs.twimg.com/profile_images/1293498466535124994/eMBXbFDe_normal.jpg",
+          "username": "اخبار الامارات UAE NEWS:newsemaratyah",
+          "place": {
+            "name": "Dubai",
+            "full_name": "Dubai, United Arab Emirates",
+            "country_code": "AE",
+            "country": "United Arab Emirates"
+          },
+          "geo": [
+            55.27766705,
+            25.19812155
+          ],
+          "imgLink": [
+            "https://pbs.twimg.com/media/EobptJxU0AERSIJ.jpg"
+          ]
+        },
+        {
+          "created_at": "Sat Dec 05 00:02:07 +0000 2020",
+          "text": "We're hiring in #Redmond, OR! Click the link in our bio to apply to this job and more: Part-Time City Driver at UPS #Transportation",
+          "type": "T",
+          "embedLink": "twitter.com/tmj_OR_transp/status/1335011533932224512",
+          "tweetLink": "twitter.com/i/web/status/1335011533932224512",
+          "profileImg": "https://pbs.twimg.com/profile_images/711216307677503488/Yu7HYKez_normal.jpg",
+          "username": "TMJ-OR Transport.:tmj_OR_transp",
+          "place": {
+            "name": "Redmond",
+            "full_name": "Redmond, OR",
+            "country_code": "US",
+            "country": "United States"
+          },
+          "geo": [
+            -121.166546,
+            44.2751919
+          ],
+          "hashtags": [
+            "Redmond",
+            "Transportation"
+          ]
+        },
+        {
+          "created_at": "Sat Dec 05 00:02:09 +0000 2020",
+          "text": "Just posted a photo @ Bombshell Hair Lounge, Kitsilano https://t.co/CVYSXELHuv",
+          "type": "T",
+          "embedLink": "twitter.com/FutureHairVan/status/1335011542224482307",
+          "tweetLink": "twitter.com/i/web/status/1335011542224482307",
+          "profileImg": "https://pbs.twimg.com/profile_images/1026120170446577666/H2tqi_Q1_normal.jpg",
+          "username": "Cynthia Skabar:FutureHairVan",
+          "place": {
+            "name": "Vancouver",
+            "full_name": "Vancouver, British Columbia",
+            "country_code": "CA",
+            "country": "Canada"
+          },
+          "geo": [
+            -123.148217,
+            49.2708273
+          ]
+        },
+        {
+          "created_at": "Sat Dec 05 00:02:23 +0000 2020",
+          "text": "Just posted a photo @ Knitting Nook https://t.co/fe9DA4m56u",
+          "type": "T",
+          "embedLink": "twitter.com/mjmucklestone/status/1335011600982536192",
+          "tweetLink": "twitter.com/i/web/status/1335011600982536192",
+          "profileImg": "https://pbs.twimg.com/profile_images/975842149173465089/GH2eByTJ_normal.jpg",
+          "username": "Mary Jane Mucklestone:mjmucklestone",
+          "place": {
+            "name": "South Portland",
+            "full_name": "South Portland, ME",
+            "country_code": "US",
+            "country": "United States"
+          },
+          "geo": [
+            -70.24055,
+            43.64739
+          ]
+        },
+        {
+          "created_at": "Sat Dec 05 00:02:31 +0000 2020",
+          "text": "Just posted a photo @ Little Guyana Bake Shop Inc https://t.co/9bwHUj6GnM",
+          "type": "T",
+          "embedLink": "twitter.com/big_m___/status/1335011634725654529",
+          "tweetLink": "twitter.com/i/web/status/1335011634725654529",
+          "profileImg": "https://pbs.twimg.com/profile_images/1212247449294774272/Y-xCywTV_normal.jpg",
+          "username": "Big M 🙇🏾:big_m___",
+          "place": {
+            "name": "Queens",
+            "full_name": "Queens, NY",
+            "country_code": "US",
+            "country": "United States"
+          },
+          "geo": [
+            -73.81975,
+            40.68821
+          ]
+        },
+        {
+          "created_at": "Sat Dec 05 00:02:44 +0000 2020",
+          "text": "Check out our #listing in #Blacklick #OH  #realestate #realtor https://t.co/g0TZE4ao8h https://t.co/KtXFg3j8Fq",
+          "type": "T",
+          "embedLink": "twitter.com/HERrealtors/status/1335011688110821386",
+          "tweetLink": "twitter.com/i/web/status/1335011688110821386",
+          "profileImg": "https://pbs.twimg.com/profile_images/1330953360648904709/7zIVGNds_normal.jpg",
+          "username": "HER, REALTORS®:HERrealtors",
+          "place": {
+            "name": "Ohio",
+            "full_name": "Ohio, USA",
+            "country_code": "US",
+            "country": "United States"
+          },
+          "geo": [
+            -82.7865,
+            40.0292
+          ],
+          "imgLink": [
+            "https://pbs.twimg.com/media/EobqDfEWEAUyFYX.jpg"
+          ],
+          "hashtags": [
+            "listing",
+            "Blacklick",
+            "OH",
+            "realestate",
+            "realtor"
+          ]
+        },
+        {
+          "created_at": "Sat Dec 05 12:39:57 +0000 2020",
+          "text": "I'm at La Playa Beach in Jeddah, Makkah https://t.co/1UjTujnlpQ https://t.co/pHYUHoEEWz",
+          "type": "T",
+          "embedLink": "twitter.com/iinadia9/status/1335202247848890369",
+          "tweetLink": "twitter.com/i/web/status/1335202247848890369",
+          "profileImg": "https://pbs.twimg.com/profile_images/1321784515648462849/bYL88G2j_normal.jpg",
+          "username": "Nadia Ψ:iinadia9",
+          "place": {
+            "name": "Jeddah",
+            "full_name": "Jeddah, Kingdom of Saudi Arabia",
+            "country_code": "SA",
+            "country": "Kingdom of Saudi Arabia"
+          },
+          "geo": [
+            39.078491,
+            21.722485
+          ],
+          "imgLink": [
+            "https://pbs.twimg.com/media/EoeXXj-WEAEnp6E.jpg"
+          ]
+        },
+        {
+          "created_at": "Sat Dec 05 12:40:14 +0000 2020",
+          "text": "Just posted a photo @ Shells and Tails 2 Geaux https://t.co/RBFAk3hoZR",
+          "type": "T",
+          "embedLink": "twitter.com/ShellsNTails2Go/status/1335202320175525890",
+          "tweetLink": "twitter.com/i/web/status/1335202320175525890",
+          "profileImg": "https://pbs.twimg.com/profile_images/687044526301511680/DTGKnUmR_normal.jpg",
+          "username": "Shells  N Tails 2 Go:ShellsNTails2Go",
+          "place": {
+            "name": "Desoto",
+            "full_name": "Desoto, TX",
+            "country_code": "US",
+            "country": "United States"
+          },
+          "geo": [
+            -96.85163,
+            32.58946
+          ]
+        },
+        {
+          "created_at": "Sat Dec 05 12:40:52 +0000 2020",
+          "text": "Acaba de publicar una foto en Ecoaventurapark https://t.co/cOm80BdxS5",
+          "type": "T",
+          "embedLink": "twitter.com/ecoaventurapark/status/1335202479592660992",
+          "tweetLink": "twitter.com/i/web/status/1335202479592660992",
+          "profileImg": "https://pbs.twimg.com/profile_images/747852390347476992/3LZhZFeY_normal.jpg",
+          "username": "ECOAVENTURA PARK:ecoaventurapark",
+          "place": {
+            "name": "Silvania",
+            "full_name": "Silvania, Colombia",
+            "country_code": "CO",
+            "country": "Colombia"
+          },
+          "geo": [
+            -74.38388,
+            4.40306
+          ]
+        },
+        {
+          "created_at": "Sat Dec 05 12:41:14 +0000 2020",
+          "text": "Just posted a photo @ Mackay Memorial Primary https://t.co/c80cWXFl1F",
+          "type": "T",
+          "embedLink": "twitter.com/cllrtobyneal/status/1335202571754090497",
+          "tweetLink": "twitter.com/i/web/status/1335202571754090497",
+          "profileImg": "https://pbs.twimg.com/profile_images/1061692766915321861/WrF7-GdC_normal.jpg",
+          "username": "🌈Toby Neal says Join a Union:cllrtobyneal",
+          "place": {
+            "name": "Kampala",
+            "full_name": "Kampala, Uganda",
+            "country_code": "UG",
+            "country": "Uganda"
+          },
+          "geo": [
+            32.54323,
+            0.3033
+          ]
+        },
+        {
+          "created_at": "Sat Dec 05 12:41:22 +0000 2020",
+          "text": "Off season #winter #frost #waterpark #leftovers #abandonedplaces #abandoned #foliageplant #shadows… https://t.co/bpSutt0nFL",
+          "type": "T",
+          "embedLink": "twitter.com/Lelienhof/status/1335202605283373057",
+          "tweetLink": "twitter.com/i/web/status/1335202605283373057",
+          "profileImg": "https://pbs.twimg.com/profile_images/727045267493687297/vxogk8W__normal.jpg",
+          "username": "Marcel R.Leliënhof:Lelienhof",
+          "place": {
+            "name": "Sør-Odal",
+            "full_name": "Sør-Odal, Norge",
+            "country_code": "NO",
+            "country": "Norway"
+          },
+          "geo": [
+            11.58059103,
+            60.19874693
+          ],
+          "hashtags": [
+            "winter",
+            "frost",
+            "waterpark",
+            "leftovers",
+            "abandonedplaces",
+            "abandoned",
+            "foliageplant",
+            "shadows"
+          ]
+        },
+        {
+          "created_at": "Sat Dec 05 12:42:40 +0000 2020",
+          "text": "Just posted a photo @ Congleton https://t.co/DYr4At59IQ",
+          "type": "T",
+          "embedLink": "twitter.com/autismdogscic/status/1335202932518756355",
+          "tweetLink": "twitter.com/i/web/status/1335202932518756355",
+          "profileImg": "https://pbs.twimg.com/profile_images/1318560679822041093/IsNBQRy4_normal.jpg",
+          "username": "Autism Dogs CIC:autismdogscic",
+          "place": {
+            "name": "Congleton",
+            "full_name": "Congleton, England",
+            "country_code": "GB",
+            "country": "United Kingdom"
+          },
+          "geo": [
+            -2.21183,
+            53.16411
+          ]
+        },
+        {
+          "created_at": "Sat Dec 05 12:43:07 +0000 2020",
+          "text": "Just posted a photo @ The Palm Jumeirah, Dubai, UAE https://t.co/zHCCiRn0w0",
+          "type": "T",
+          "embedLink": "twitter.com/InvestToDubai/status/1335203045857083393",
+          "tweetLink": "twitter.com/i/web/status/1335203045857083393",
+          "profileImg": "https://pbs.twimg.com/profile_images/970254017891913728/892TGBDP_normal.jpg",
+          "username": "Konstantin Seleznov:InvestToDubai",
+          "place": {
+            "name": "Dubai",
+            "full_name": "Dubai, United Arab Emirates",
+            "country_code": "AE",
+            "country": "United Arab Emirates"
+          },
+          "geo": [
+            55.13975859,
+            25.11197728
+          ]
+        },
+        {
+          "created_at": "Sat Dec 05 12:43:30 +0000 2020",
+          "text": "Just posted a photo @ Royal Pahang Polo Club https://t.co/S8P6YxiWJk",
+          "type": "T",
+          "embedLink": "twitter.com/ieda0106/status/1335203142246522881",
+          "tweetLink": "twitter.com/i/web/status/1335203142246522881",
+          "profileImg": "https://pbs.twimg.com/profile_images/540311573277855745/XT7zddzV_normal.jpeg",
+          "username": "Zarida Abu Bakar:ieda0106",
+          "place": {
+            "name": "Pekan",
+            "full_name": "Pekan, Pahang",
+            "country_code": "MY",
+            "country": "Malaysia"
+          },
+          "geo": [
+            103.38041347,
+            3.48201771
+          ]
+        },
+        {
+          "created_at": "Sat Dec 05 12:45:03 +0000 2020",
+          "text": "Baru saja mengirim foto @ Gramedia Tunjungan Plaza https://t.co/8dXYja1CTs",
+          "type": "T",
+          "embedLink": "twitter.com/gramedia_tp/status/1335203532392124416",
+          "tweetLink": "twitter.com/i/web/status/1335203532392124416",
+          "profileImg": "https://pbs.twimg.com/profile_images/1219144725531262977/l7QxlAyq_normal.jpg",
+          "username": "GRAMEDIA TUNJUNGAN PLAZA:gramedia_tp",
+          "place": {
+            "name": "Genteng",
+            "full_name": "Genteng, Indonesia",
+            "country_code": "ID",
+            "country": "Indonesia"
+          },
+          "geo": [
+            112.7403966,
+            -7.26343757
+          ]
+        },
+        {
+          "created_at": "Sat Dec 05 12:46:33 +0000 2020",
+          "text": "Acabou de publicar uma foto em Santa Rosa (Guarujá) https://t.co/D58HqeKu0w",
+          "type": "T",
+          "embedLink": "twitter.com/poul2005gja/status/1335203909909024769",
+          "tweetLink": "twitter.com/i/web/status/1335203909909024769",
+          "profileImg": "https://pbs.twimg.com/profile_images/1291683564027875329/J2s2JcrX_normal.jpg",
+          "username": "Paulo Rocha:poul2005gja",
+          "place": {
+            "name": "Guarujá",
+            "full_name": "Guarujá, Brasil",
+            "country_code": "BR",
+            "country": "Brasil"
+          },
+          "geo": [
+            -46.28122222,
+            -23.99555556
+          ]
+        },
+        {
+          "created_at": "Sat Dec 05 12:46:41 +0000 2020",
+          "text": "I'm at % Arabica in Kuwait City, Al Asimah https://t.co/LBfdpkXrmd",
+          "type": "T",
+          "embedLink": "twitter.com/AWALDHAHI/status/1335203943459205124",
+          "tweetLink": "twitter.com/i/web/status/1335203943459205124",
+          "profileImg": "https://pbs.twimg.com/profile_images/1332448609464410112/fg0SJVg4_normal.jpg",
+          "username": "أفنـان وليـد الضاحـي:AWALDHAHI",
+          "place": {
+            "name": "الشرق",
+            "full_name": "الشرق, دولة الكويت",
+            "country_code": "KW",
+            "country": "دولة الكويت"
+          },
+          "geo": [
+            47.99070254,
+            29.37698481
+          ]
+        },
+        {
+          "created_at": "Sat Dec 05 12:47:31 +0000 2020",
+          "text": "Acaba de publicar una foto en Posada Playa Sur Beach https://t.co/hnIoAoZEkL",
+          "type": "T",
+          "embedLink": "twitter.com/posadaplayasur/status/1335204153187045381",
+          "tweetLink": "twitter.com/i/web/status/1335204153187045381",
+          "profileImg": "https://pbs.twimg.com/profile_images/1238127206746001409/aXrqqI4J_normal.jpg",
+          "username": "Posada Playa Sur Beach 🏖️:posadaplayasur",
+          "place": {
+            "name": "Chichiriviche",
+            "full_name": "Chichiriviche, Venezuela",
+            "country_code": "VE",
+            "country": "Venezuela"
+          },
+          "geo": [
+            -68.271017,
+            10.931717
+          ]
+        },
+        {
+          "created_at": "Sat Dec 05 12:47:33 +0000 2020",
+          "text": "Foto appena pubblicata @ Campidarte https://t.co/qaGc6Z25Wy",
+          "type": "T",
+          "embedLink": "twitter.com/LaFilleBertha/status/1335204161575653378",
+          "tweetLink": "twitter.com/i/web/status/1335204161575653378",
+          "profileImg": "https://pbs.twimg.com/profile_images/1036264365245300736/1JeaznL6_normal.jpg",
+          "username": "La Fille Bertha:LaFilleBertha",
+          "place": {
+            "name": "Ussana",
+            "full_name": "Ussana, Sardegna",
+            "country_code": "IT",
+            "country": "Italia"
+          },
+          "geo": [
+            9.06387866,
+            39.40863108
+          ]
+        },
+        {
+          "created_at": "Sat Dec 05 12:52:46 +0000 2020",
+          "text": "Just posted a photo @ Mysore, Karnataka https://t.co/DvNyL0c2Zm",
+          "type": "T",
+          "embedLink": "twitter.com/mohanrao931/status/1335205474115915779",
+          "tweetLink": "twitter.com/i/web/status/1335205474115915779",
+          "profileImg": "https://pbs.twimg.com/profile_images/869121290971602944/vrPsCn3j_normal.jpg",
+          "username": "mohan rao 8498863881:mohanrao931",
+          "place": {
+            "name": "Mysore",
+            "full_name": "Mysore, India",
+            "country_code": "IN",
+            "country": "India"
+          },
+          "geo": [
+            76.6528,
+            12.3074
+          ]
+        },
+        {
+          "created_at": "Sat Dec 05 12:53:25 +0000 2020",
+          "text": "Acaba de publicar una foto en Ciudad Guayana https://t.co/p5gyi8TVax",
+          "type": "T",
+          "embedLink": "twitter.com/LeitoDimas/status/1335205637928722433",
+          "tweetLink": "twitter.com/i/web/status/1335205637928722433",
+          "profileImg": "https://pbs.twimg.com/profile_images/443736672543715328/HhdxF6Dv_normal.jpeg",
+          "username": "Leomar Dimas:LeitoDimas",
+          "place": {
+            "name": "Ciudad Guayana",
+            "full_name": "Ciudad Guayana, Venezuela",
+            "country_code": "VE",
+            "country": "Venezuela"
+          },
+          "geo": [
+            -62.6436,
+            8.3731
+          ]
+        },
+        {
+          "created_at": "Sat Dec 05 12:56:58 +0000 2020",
+          "text": "Just posted a photo @ Amen Estate, Eleko Beach Road, Lagos. https://t.co/NDZ5POLuyG",
+          "type": "T",
+          "embedLink": "twitter.com/ahra_foods/status/1335206530992500738",
+          "tweetLink": "twitter.com/i/web/status/1335206530992500738",
+          "profileImg": "https://pbs.twimg.com/profile_images/1298606498008969216/GXS0oqDD_normal.jpg",
+          "username": "ahrafoods:ahra_foods",
+          "place": {
+            "name": "Lagos",
+            "full_name": "Lagos, Nigeria",
+            "country_code": "NG",
+            "country": "Nigeria"
+          },
+          "geo": [
+            3.84961367,
+            6.46435585
+          ]
+        },
+        {
+          "created_at": "Sat Dec 05 12:57:40 +0000 2020",
+          "text": "Just posted a photo @ Hell's Kitchen https://t.co/FupkbjEDWS",
+          "type": "T",
+          "embedLink": "twitter.com/bbbatz/status/1335206707321049088",
+          "tweetLink": "twitter.com/i/web/status/1335206707321049088",
+          "profileImg": "https://pbs.twimg.com/profile_images/1311484456281268225/vuDk09az_normal.jpg",
+          "username": "Batz S Skinner:bbbatz",
+          "place": {
+            "name": "Manhattan",
+            "full_name": "Manhattan, NY",
+            "country_code": "US",
+            "country": "United States"
+          },
+          "geo": [
+            -73.994641,
+            40.763744
+          ]
+        },
+        {
+          "created_at": "Sat Dec 05 12:57:40 +0000 2020",
+          "text": "Acaba de publicar una foto en En Mi Casita https://t.co/94EAA84fWY",
+          "type": "T",
+          "embedLink": "twitter.com/Mery_Tele/status/1335206707392368643",
+          "tweetLink": "twitter.com/i/web/status/1335206707392368643",
+          "profileImg": "https://pbs.twimg.com/profile_images/461803700080492545/eoB5syoS_normal.jpeg",
+          "username": "Mery Trendy:Mery_Tele",
+          "place": {
+            "name": "Gijón",
+            "full_name": "Gijón, España",
+            "country_code": "ES",
+            "country": "España"
+          },
+          "geo": [
+            -5.67208111,
+            43.53101974
+          ]
+        },
+        {
+          "created_at": "Sat Dec 05 12:57:57 +0000 2020",
+          "text": "Just posted a photo @ Marathon https://t.co/xGtqz4L601",
+          "type": "T",
+          "embedLink": "twitter.com/komphoto/status/1335206778661908482",
+          "tweetLink": "twitter.com/i/web/status/1335206778661908482",
+          "profileImg": "https://pbs.twimg.com/profile_images/424014050/mooney_1_normal.jpg",
+          "username": "Kevin O Mooney:komphoto",
+          "place": {
+            "name": "Indiana",
+            "full_name": "Indiana, USA",
+            "country_code": "US",
+            "country": "United States"
+          },
+          "geo": [
+            -86.5368415,
+            39.1788901
+          ]
+        },
+        {
+          "created_at": "Sat Dec 05 12:58:22 +0000 2020",
+          "text": "Acaba de publicar una foto en Nules, Valenciana, Spain https://t.co/zSIxRnxO9f",
+          "type": "T",
+          "embedLink": "twitter.com/meerypla/status/1335206883498536962",
+          "tweetLink": "twitter.com/i/web/status/1335206883498536962",
+          "profileImg": "https://pbs.twimg.com/profile_images/1330237257803034633/W36iCuhI_normal.jpg",
+          "username": "Maria.:meerypla",
+          "place": {
+            "name": "Nules",
+            "full_name": "Nules, España",
+            "country_code": "ES",
+            "country": "España"
+          },
+          "geo": [
+            -0.1542,
+            39.85264
+          ]
+        },
+        {
+          "created_at": "Sat Dec 05 12:58:34 +0000 2020",
+          "text": "Acabou de publicar uma foto em Prefeitura da Cidade do Rio de Janeiro https://t.co/mXdGpGbhUL",
+          "type": "T",
+          "embedLink": "twitter.com/marinho687/status/1335206933721133059",
+          "tweetLink": "twitter.com/i/web/status/1335206933721133059",
+          "profileImg": "https://pbs.twimg.com/profile_images/1328763464026873865/vmqBLBSr_normal.jpg",
+          "username": "Antonio Marinho:marinho687",
+          "place": {
+            "name": "Rio de Janeiro",
+            "full_name": "Rio de Janeiro, Brasil",
+            "country_code": "BR",
+            "country": "Brasil"
+          },
+          "geo": [
+            -43.20551616,
+            -22.91131541
+          ]
+        },
+        {
+          "created_at": "Sat Dec 05 12:59:39 +0000 2020",
+          "text": "中抜けしてラーメン (@ こりき in 周南市, 山口県) https://t.co/xBb3uAbV8o https://t.co/PhSRWLY8LR",
+          "type": "T",
+          "embedLink": "twitter.com/asakurarrr/status/1335207206011203586",
+          "tweetLink": "twitter.com/i/web/status/1335207206011203586",
+          "profileImg": "https://pbs.twimg.com/profile_images/1173185611240374273/kRq4TiPf_normal.jpg",
+          "username": "”浅倉”ﾏﾝ@yasu:asakurarrr",
+          "place": {
+            "name": "周南市",
+            "full_name": "山口 周南市",
+            "country_code": "JP",
+            "country": "日本"
+          },
+          "geo": [
+            131.8063331,
+            34.049986
+          ],
+          "imgLink": [
+            "https://pbs.twimg.com/media/Eoeb4NTXEAE2uyh.jpg"
+          ]
+        },
+        {
+          "created_at": "Sat Dec 05 13:00:02 +0000 2020",
+          "text": "Un monument à découvrir : Immeuble Morin à Saint-Etienne (#Loire) https://t.co/eUSrQOvQXy #patrimoine https://t.co/NghM1D8gNr",
+          "type": "T",
+          "embedLink": "twitter.com/patrimonialsite/status/1335207302329114625",
+          "tweetLink": "twitter.com/i/web/status/1335207302329114625",
+          "profileImg": "https://pbs.twimg.com/profile_images/1221409307121659906/0YtSIbU0_normal.jpg",
+          "username": "patrimonial.site:patrimonialsite",
+          "place": {
+            "name": "Saint-Etienne",
+            "full_name": "Saint-Etienne, France",
+            "country_code": "FR",
+            "country": "France"
+          },
+          "geo": [
+            4.391288,
+            45.437882
+          ],
+          "imgLink": [
+            "https://pbs.twimg.com/media/Eoeb9zDVgAAG9Q_.jpg"
+          ],
+          "hashtags": [
+            "Loire",
+            "patrimoine"
+          ]
+        },
+        {
+          "created_at": "Sat Dec 05 13:00:17 +0000 2020",
+          "text": "荒川区荒川二丁目 33-1 https://t.co/inhwI7wmjL",
+          "type": "T",
+          "embedLink": "twitter.com/everylottokyo/status/1335207365558190081",
+          "tweetLink": "twitter.com/i/web/status/1335207365558190081",
+          "profileImg": "https://pbs.twimg.com/profile_images/1217750033681932290/8EsRPCyF_normal.jpg",
+          "username": "every lot tokyo / 東京のすべての土地:everylottokyo",
+          "place": {
+            "name": "Arakawa-ku",
+            "full_name": "Arakawa-ku, Tokyo",
+            "country_code": "JP",
+            "country": "Japan"
+          },
+          "geo": [
+            139.78305986,
+            35.73873259
+          ],
+          "imgLink": [
+            "https://pbs.twimg.com/media/EoecBdaVgAMDP5C.jpg"
+          ]
+        },
+        {
+          "created_at": "Sat Dec 05 13:01:19 +0000 2020",
+          "text": "I'm at 博多ラーメン 濱田屋 in 足立区, 東京都 https://t.co/h0tmHNTksx https://t.co/BQLnQ3kibN",
+          "type": "T",
+          "embedLink": "twitter.com/shino_tora/status/1335207625173184514",
+          "tweetLink": "twitter.com/i/web/status/1335207625173184514",
+          "profileImg": "https://pbs.twimg.com/profile_images/1004036249600942080/JFZvw66m_normal.jpg",
+          "username": "痔ことら:shino_tora",
+          "place": {
+            "name": "足立区",
+            "full_name": "東京 足立区",
+            "country_code": "JP",
+            "country": "日本"
+          },
+          "geo": [
+            139.8040753,
+            35.74927546
+          ],
+          "imgLink": [
+            "https://pbs.twimg.com/media/EoecQlwW4AAMLKW.jpg"
+          ]
+        },
+        {
+          "created_at": "Sat Dec 05 13:01:50 +0000 2020",
+          "text": "Acaba de publicar una foto en Panama City, Panama https://t.co/AcV7oO69DY",
+          "type": "T",
+          "embedLink": "twitter.com/phernandez8423/status/1335207756094181376",
+          "tweetLink": "twitter.com/i/web/status/1335207756094181376",
+          "profileImg": "https://pbs.twimg.com/profile_images/1146984423075844097/UYY7bPRP_normal.jpg",
+          "username": "†Pablito☆Panama™:phernandez8423",
+          "place": {
+            "name": "Panamá",
+            "full_name": "Panamá",
+            "country_code": "PA",
+            "country": "Panamá"
+          },
+          "geo": [
+            -79.5355,
+            8.982
+          ]
+        },
+        {
+          "created_at": "Sat Dec 05 13:01:53 +0000 2020",
+          "text": "I'm at مدرسة بدر السيد رجب الرفاعي https://t.co/jQoHSgfGJC https://t.co/SbOTTOaICf",
+          "type": "T",
+          "embedLink": "twitter.com/by_lulwa/status/1335207768106659842",
+          "tweetLink": "twitter.com/i/web/status/1335207768106659842",
+          "profileImg": "https://pbs.twimg.com/profile_images/1332037523124654082/58421IyV_normal.jpg",
+          "username": "..💫 ♈︎ ⚖️:by_lulwa",
+          "place": {
+            "name": "اليرموك",
+            "full_name": "اليرموك, دولة الكويت",
+            "country_code": "KW",
+            "country": "دولة الكويت"
+          },
+          "geo": [
+            47.96491971,
+            29.30985345
+          ],
+          "imgLink": [
+            "https://pbs.twimg.com/media/EoecY72WMAI6hOX.jpg"
+          ]
+        },
+        {
+          "created_at": "Sat Dec 05 13:01:57 +0000 2020",
+          "text": "Acabou de publicar uma foto em Macapá, Brazil https://t.co/MebpSL0AMU",
+          "type": "T",
+          "embedLink": "twitter.com/ramilton8/status/1335207785345077255",
+          "tweetLink": "twitter.com/i/web/status/1335207785345077255",
+          "profileImg": "https://pbs.twimg.com/profile_images/1310713649686814722/tHYcxSe3_normal.jpg",
+          "username": "Ramilton Farias 25980:ramilton8",
+          "place": {
+            "name": "Macapá",
+            "full_name": "Macapá, Brasil",
+            "country_code": "BR",
+            "country": "Brasil"
+          },
+          "geo": [
+            -51.0603,
+            0.0342
+          ]
+        },
+        {
+          "created_at": "Sat Dec 05 13:02:01 +0000 2020",
+          "text": "แน่น (@ Rosthip Seafood in Bangkok) https://t.co/2igGLQsx3s https://t.co/BR16IriOFT",
+          "type": "T",
+          "embedLink": "twitter.com/BEAMBAH/status/1335207801493315587",
+          "tweetLink": "twitter.com/i/web/status/1335207801493315587",
+          "profileImg": "https://pbs.twimg.com/profile_images/1318098221378404352/eicvuX0z_normal.jpg",
+          "username": "นักกินสายไหม:BEAMBAH",
+          "place": {
+            "name": "ตลิ่งชัน",
+            "full_name": "ตลิ่งชัน, ประเทศไทย",
+            "country_code": "TH",
+            "country": "ประเทศไทย"
+          },
+          "geo": [
+            100.46286184,
+            13.78539027
+          ],
+          "imgLink": [
+            "https://pbs.twimg.com/media/Eoeca4AWEAAWdym.jpg"
+          ]
+        },
+        {
+          "created_at": "Sat Dec 05 13:02:34 +0000 2020",
+          "text": "Acabou de publicar uma foto em Parque Natural Municipal da Catacumba https://t.co/eO1LXoAaGy",
+          "type": "T",
+          "embedLink": "twitter.com/vandaklabin/status/1335207940588929030",
+          "tweetLink": "twitter.com/i/web/status/1335207940588929030",
+          "profileImg": "https://pbs.twimg.com/profile_images/300235236/vk_normal.JPG",
+          "username": "Vanda Klabin:vandaklabin",
+          "place": {
+            "name": "Rio de Janeiro",
+            "full_name": "Rio de Janeiro, Brazil",
+            "country_code": "BR",
+            "country": "Brazil"
+          },
+          "geo": [
+            -43.20280764,
+            -22.97272768
+          ]
+        },
+        {
+          "created_at": "Sat Dec 05 13:02:46 +0000 2020",
+          "text": "Acabou de publicar uma foto em Copacabana, Rio de Janeiro https://t.co/LP9FbvHnsH",
+          "type": "T",
+          "embedLink": "twitter.com/fernandareali/status/1335207990849310722",
+          "tweetLink": "twitter.com/i/web/status/1335207990849310722",
+          "profileImg": "https://pbs.twimg.com/profile_images/1210713892474765312/wUidHckv_normal.jpg",
+          "username": "Fernanda Reali:fernandareali",
+          "place": {
+            "name": "Rio de Janeiro",
+            "full_name": "Rio de Janeiro, Brasil",
+            "country_code": "BR",
+            "country": "Brasil"
+          },
+          "geo": [
+            -43.18069722,
+            -22.96703333
+          ]
+        },
+        {
+          "created_at": "Sat Dec 05 13:04:05 +0000 2020",
+          "text": "Acabou de publicar uma foto em Limeira, São Paulo, Brasil https://t.co/CBXJ5UHYTs",
+          "type": "T",
+          "embedLink": "twitter.com/daizadecarvalho/status/1335208322279075841",
+          "tweetLink": "twitter.com/i/web/status/1335208322279075841",
+          "profileImg": "https://pbs.twimg.com/profile_images/1258591664563728388/XViu5hPe_normal.jpg",
+          "username": "Daíza de Carvalho Lacerda:daizadecarvalho",
+          "place": {
+            "name": "Limeira",
+            "full_name": "Limeira, Brasil",
+            "country_code": "BR",
+            "country": "Brasil"
+          },
+          "geo": [
+            -47.4133013,
+            -22.5800471
+          ]
+        },
+        {
+          "created_at": "Sat Dec 05 13:04:24 +0000 2020",
+          "text": "Just posted a photo @ Jacksonville, Florida https://t.co/dQVOshKeKn",
+          "type": "T",
+          "embedLink": "twitter.com/RDMuzik/status/1335208401568210944",
+          "tweetLink": "twitter.com/i/web/status/1335208401568210944",
+          "profileImg": "https://pbs.twimg.com/profile_images/1308064504555679745/UPUYa8KM_normal.jpg",
+          "username": "RD:RDMuzik",
+          "place": {
+            "name": "Downtown Jacksonville",
+            "full_name": "Downtown Jacksonville, FL",
+            "country_code": "US",
+            "country": "United States"
+          },
+          "geo": [
+            -81.657,
+            30.3285
+          ]
+        },
+        {
+          "created_at": "Sat Dec 05 13:05:07 +0000 2020",
+          "text": "Just posted a photo @ Mebane, North Carolina https://t.co/qmdyd3tHv3",
+          "type": "T",
+          "embedLink": "twitter.com/Solgardenkp/status/1335208582216777730",
+          "tweetLink": "twitter.com/i/web/status/1335208582216777730",
+          "profileImg": "https://pbs.twimg.com/profile_images/624616748755476480/EzDssarN_normal.jpg",
+          "username": "Solgar:Solgardenkp",
+          "place": {
+            "name": "Mebane",
+            "full_name": "Mebane, NC",
+            "country_code": "US",
+            "country": "United States"
+          },
+          "geo": [
+            -79.2709,
+            36.096
+          ]
+        },
+        {
+          "created_at": "Sat Dec 05 13:05:37 +0000 2020",
+          "text": "Just posted a photo @ Montreal, Quebec https://t.co/iqtzSta2aE",
+          "type": "T",
+          "embedLink": "twitter.com/inc_teixeira/status/1335208708188512257",
+          "tweetLink": "twitter.com/i/web/status/1335208708188512257",
+          "profileImg": "https://pbs.twimg.com/profile_images/1257126102524407809/D0yCKFGB_normal.jpg",
+          "username": "Teixeira Distribution Inc:inc_teixeira",
+          "place": {
+            "name": "Montréal",
+            "full_name": "Montréal, Québec",
+            "country_code": "CA",
+            "country": "Canada"
+          },
+          "geo": [
+            -73.5744,
+            45.5038
+          ]
+        },
+        {
+          "created_at": "Sat Dec 05 13:07:02 +0000 2020",
+          "text": "* مل جائے گے ہم جیسے لیکن ہم نہ ملیں گے !* @ Samundari City https://t.co/nSALY7WlUe",
+          "type": "T",
+          "embedLink": "twitter.com/ChAmir392/status/1335209064679215104",
+          "tweetLink": "twitter.com/i/web/status/1335209064679215104",
+          "profileImg": "https://pbs.twimg.com/profile_images/1052750200991825921/sdta8Yej_normal.jpg",
+          "username": "Choudhary Amir:ChAmir392",
+          "place": {
+            "name": "Punjab",
+            "full_name": "Punjab, Pakistan",
+            "country_code": "PK",
+            "country": "Pakistan"
+          },
+          "geo": [
+            72.95371741,
+            31.06452675
+          ]
+        },
+        {
+          "created_at": "Sat Dec 05 13:08:20 +0000 2020",
+          "text": "Just posted a photo @ Cameo Jewellers &amp; Goldsmiths https://t.co/sPMAvYg6o3",
+          "type": "T",
+          "embedLink": "twitter.com/cameojewellers/status/1335209391776292864",
+          "tweetLink": "twitter.com/i/web/status/1335209391776292864",
+          "profileImg": "https://pbs.twimg.com/profile_images/1844044516/image_normal.jpg",
+          "username": "Cameo Jewels:cameojewellers",
+          "place": {
+            "name": "Hull",
+            "full_name": "Hull, England",
+            "country_code": "GB",
+            "country": "United Kingdom"
+          },
+          "geo": [
+            -0.395738,
+            53.7505754
+          ]
+        },
+        {
+          "created_at": "Sat Dec 05 13:09:31 +0000 2020",
+          "text": "Acaba de publicar una foto en Núcleo LUZCOL https://t.co/gJXwfG9Lbf",
+          "type": "T",
+          "embedLink": "twitter.com/ExcelenciaU_97/status/1335209689458507777",
+          "tweetLink": "twitter.com/i/web/status/1335209689458507777",
+          "profileImg": "https://pbs.twimg.com/profile_images/1278532897348169728/av95B5Hl_normal.jpg",
+          "username": "Excelencia U_97:ExcelenciaU_97",
+          "place": {
+            "name": "Cabimas",
+            "full_name": "Cabimas, Venezuela",
+            "country_code": "VE",
+            "country": "Venezuela"
+          },
+          "geo": [
+            -71.45,
+            10.4
+          ]
+        },
+        {
+          "created_at": "Sat Dec 05 13:12:37 +0000 2020",
+          "text": "Just posted a photo @ The Coffee House, Moreton Hall, Bury St Edmunds https://t.co/091vmo5Ryh",
+          "type": "T",
+          "embedLink": "twitter.com/TheCoffeeHouse5/status/1335210469682937857",
+          "tweetLink": "twitter.com/i/web/status/1335210469682937857",
+          "profileImg": "https://pbs.twimg.com/profile_images/1262413243437527040/oLRrKqLJ_normal.jpg",
+          "username": "The Coffee House:TheCoffeeHouse5",
+          "place": {
+            "name": "Bury Saint Edmunds",
+            "full_name": "Bury Saint Edmunds, England",
+            "country_code": "GB",
+            "country": "United Kingdom"
+          },
+          "geo": [
+            0.74309043,
+            52.24545909
+          ]
+        },
+        {
+          "created_at": "Sat Dec 05 13:22:08 +0000 2020",
+          "text": "久々の (@ セガ水戸南 in 水戸市, 茨城県) https://t.co/jde8ZrC58u https://t.co/07aMLZmxpX",
+          "type": "T",
+          "embedLink": "twitter.com/_humch/status/1335212863686926337",
+          "tweetLink": "twitter.com/i/web/status/1335212863686926337",
+          "profileImg": "https://pbs.twimg.com/profile_images/1291591086104645633/EsNBxADE_normal.jpg",
+          "username": "鈴掛:_humch",
+          "place": {
+            "name": "水戸市",
+            "full_name": "茨城 水戸市",
+            "country_code": "JP",
+            "country": "日本"
+          },
+          "geo": [
+            140.44307,
+            36.35038
+          ],
+          "imgLink": [
+            "https://pbs.twimg.com/media/EoehBgWXIAAl9WZ.jpg"
+          ]
+        },
+        {
+          "created_at": "Sat Dec 05 13:23:41 +0000 2020",
+          "text": "Just posted a photo @ Papparoti Bahria 7 https://t.co/tehImve4cW",
+          "type": "T",
+          "embedLink": "twitter.com/PapparotiP/status/1335213254705090560",
+          "tweetLink": "twitter.com/i/web/status/1335213254705090560",
+          "profileImg": "https://pbs.twimg.com/profile_images/1312452936023277568/tTWyeNo8_normal.jpg",
+          "username": "PappaRoti Pakistan:PapparotiP",
+          "place": {
+            "name": "Punjab",
+            "full_name": "Punjab, Pakistan",
+            "country_code": "PK",
+            "country": "Pakistan"
+          },
+          "geo": [
+            73.0962259,
+            33.5244752
+          ]
+        },
+        {
+          "created_at": "Sat Dec 05 13:23:49 +0000 2020",
+          "text": "Acaba de publicar una foto en El Cubil Felino De Criguez &amp; Jeu https://t.co/mtP0iEeKXY",
+          "type": "T",
+          "embedLink": "twitter.com/uhmmm_lima/status/1335213288292982785",
+          "tweetLink": "twitter.com/i/web/status/1335213288292982785",
+          "profileImg": "https://pbs.twimg.com/profile_images/1331610389109493762/fm6NwwBq_normal.jpg",
+          "username": "Cristóbal Rodríguez:uhmmm_lima",
+          "place": {
+            "name": "Chorrillos",
+            "full_name": "Chorrillos, Peru",
+            "country_code": "PE",
+            "country": "Peru"
+          },
+          "geo": [
+            -76.9994497,
+            -12.1950334
+          ]
+        },
+        {
+          "created_at": "Sat Dec 05 13:25:07 +0000 2020",
+          "text": "Out for a pint and food. @ White Hart https://t.co/E6Y0YwIM5N",
+          "type": "T",
+          "embedLink": "twitter.com/EightFootYeti/status/1335213615314563076",
+          "tweetLink": "twitter.com/i/web/status/1335213615314563076",
+          "profileImg": "https://pbs.twimg.com/profile_images/861492705314123776/46j39MCu_normal.jpg",
+          "username": "Eight Foot Yeti:EightFootYeti",
+          "place": {
+            "name": "Gosport",
+            "full_name": "Gosport, England",
+            "country_code": "GB",
+            "country": "United Kingdom"
+          },
+          "geo": [
+            -1.1383397,
+            50.792096
+          ]
+        },
+        {
+          "created_at": "Sat Dec 05 13:28:27 +0000 2020",
+          "text": "Acabou de publicar uma foto em Caturité https://t.co/eqNg54xkGx",
+          "type": "T",
+          "embedLink": "twitter.com/JJJonnas/status/1335214454334758912",
+          "tweetLink": "twitter.com/i/web/status/1335214454334758912",
+          "profileImg": "https://pbs.twimg.com/profile_images/1269231811537797120/NRe2A4uT_normal.jpg",
+          "username": "jonas Cavalcante:JJJonnas",
+          "place": {
+            "name": "Queimadas",
+            "full_name": "Queimadas, Brasil",
+            "country_code": "BR",
+            "country": "Brasil"
+          },
+          "geo": [
+            -36.02001,
+            -7.42056
+          ]
+        },
+        {
+          "created_at": "Sat Dec 05 13:29:15 +0000 2020",
+          "text": "Daily Specials!\n\n🍻 The Casual Pint Draft List🍻 https://t.co/RtafvLgjM0\n\nCall 757-689-6296 or use our food portal to… https://t.co/L8KO6wrQD6",
+          "type": "T",
+          "embedLink": "twitter.com/CasualPintVB/status/1335214655510286336",
+          "tweetLink": "twitter.com/i/web/status/1335214655510286336",
+          "profileImg": "https://pbs.twimg.com/profile_images/1233231085456195584/7duqQvOL_normal.jpg",
+          "username": "The Casual Pint (Virginia Beach):CasualPintVB",
+          "place": {
+            "name": "Virginia Beach",
+            "full_name": "Virginia Beach, VA",
+            "country_code": "US",
+            "country": "United States"
+          },
+          "geo": [
+            -76.08855629,
+            36.77559683
+          ]
+        },
+        {
+          "created_at": "Sat Dec 05 13:30:08 +0000 2020",
+          "text": "2916 North Menard Avenue https://t.co/Sv0uOKPW0L",
+          "type": "T",
+          "embedLink": "twitter.com/everylotchicago/status/1335214877808398338",
+          "tweetLink": "twitter.com/i/web/status/1335214877808398338",
+          "profileImg": "https://pbs.twimg.com/profile_images/678687207603982338/5jE8wKKP_normal.png",
+          "username": "every lot chicago:everylotchicago",
+          "place": {
+            "name": "Chicago",
+            "full_name": "Chicago, IL",
+            "country_code": "US",
+            "country": "United States"
+          },
+          "geo": [
+            -87.77154,
+            41.93357
+          ],
+          "imgLink": [
+            "https://pbs.twimg.com/media/Eoei2quW8AAhOKm.jpg"
+          ]
+        },
+        {
+          "created_at": "Sat Dec 05 13:31:06 +0000 2020",
+          "text": "Acaba de publicar una foto en RENOVACION PELUQUEROS https://t.co/ACYrKsYKWb",
+          "type": "T",
+          "embedLink": "twitter.com/JulioRenovacion/status/1335215121145192449",
+          "tweetLink": "twitter.com/i/web/status/1335215121145192449",
+          "profileImg": "https://pbs.twimg.com/profile_images/419852991139565568/SPrL6YJi_normal.png",
+          "username": "RENOVACION PELUQUERO:JulioRenovacion",
+          "place": {
+            "name": "Madrid",
+            "full_name": "Madrid, España",
+            "country_code": "ES",
+            "country": "España"
+          },
+          "geo": [
+            -3.6968,
+            40.43161
+          ]
+        },
+        {
+          "created_at": "Sat Dec 05 13:31:29 +0000 2020",
+          "text": "Just posted a photo @ Washington D.C. https://t.co/nU7z8zk1R5",
+          "type": "T",
+          "embedLink": "twitter.com/hstreetcatwalk/status/1335215217626767360",
+          "tweetLink": "twitter.com/i/web/status/1335215217626767360",
+          "profileImg": "https://pbs.twimg.com/profile_images/515855119624454144/ExNdAWWA_normal.jpeg",
+          "username": "Carolyn:hstreetcatwalk",
+          "place": {
+            "name": "Washington",
+            "full_name": "Washington, DC",
+            "country_code": "US",
+            "country": "United States"
+          },
+          "geo": [
+            -77.0367,
+            38.8951
+          ]
+        },
+        {
+          "created_at": "Sat Dec 05 13:34:12 +0000 2020",
+          "text": "Just posted a photo @ Missoni Baia https://t.co/sPT7oFOTw3",
+          "type": "T",
+          "embedLink": "twitter.com/alexnunezart/status/1335215901319311360",
+          "tweetLink": "twitter.com/i/web/status/1335215901319311360",
+          "profileImg": "https://pbs.twimg.com/profile_images/1252801532841455627/zsdf8jzi_normal.jpg",
+          "username": "Alex Nuñez:alexnunezart",
+          "place": {
+            "name": "Miami",
+            "full_name": "Miami, FL",
+            "country_code": "US",
+            "country": "United States"
+          },
+          "geo": [
+            -80.18573,
+            25.80313
+          ]
+        },
+        {
+          "created_at": "Sat Dec 05 13:34:21 +0000 2020",
+          "text": "Just posted a photo @ Noida नोएडा https://t.co/FaRyxe13wx",
+          "type": "T",
+          "embedLink": "twitter.com/Nps1984Singh/status/1335215939164450819",
+          "tweetLink": "twitter.com/i/web/status/1335215939164450819",
+          "profileImg": "https://pbs.twimg.com/profile_images/753347296419610624/UILFwgX3_normal.jpg",
+          "username": "Singh, Narendra:Nps1984Singh",
+          "place": {
+            "name": "Noida",
+            "full_name": "Noida, India",
+            "country_code": "IN",
+            "country": "India"
+          },
+          "geo": [
+            77.36572266,
+            28.58391877
+          ]
+        },
+        {
+          "created_at": "Sat Dec 05 13:35:11 +0000 2020",
+          "text": "Hat gerade ein Foto gepostet @ Potsdam, Germany https://t.co/IgST2LsDIT",
+          "type": "T",
+          "embedLink": "twitter.com/Sports_Insider/status/1335216148678373376",
+          "tweetLink": "twitter.com/i/web/status/1335216148678373376",
+          "profileImg": "https://pbs.twimg.com/profile_images/891711337688117250/Q2-A6Q02_normal.jpg",
+          "username": "Sports Insider:Sports_Insider",
+          "place": {
+            "name": "Potsdam",
+            "full_name": "Potsdam, Deutschland",
+            "country_code": "DE",
+            "country": "Deutschland"
+          },
+          "geo": [
+            13.0667,
+            52.4
+          ]
+        },
+        {
+          "created_at": "Sat Dec 05 13:36:42 +0000 2020",
+          "text": "Acabou de publicar uma foto em Igreja Ao Deus do Universo https://t.co/237uRTKHvM",
+          "type": "T",
+          "embedLink": "twitter.com/ArtsdaClau/status/1335216530481549312",
+          "tweetLink": "twitter.com/i/web/status/1335216530481549312",
+          "profileImg": "https://pbs.twimg.com/profile_images/698135394123177984/bv3M33nv_normal.jpg",
+          "username": "Cláudia Marcia:ArtsdaClau",
+          "place": {
+            "name": "São Paulo",
+            "full_name": "São Paulo, Brasil",
+            "country_code": "BR",
+            "country": "Brasil"
+          },
+          "geo": [
+            -46.62933894,
+            -23.47889061
+          ]
+        },
+        {
+          "created_at": "Sat Dec 05 13:36:48 +0000 2020",
+          "text": "Just posted a photo @ Matthews Community Farmers' Market https://t.co/DVCCHXCerq",
+          "type": "T",
+          "embedLink": "twitter.com/Matthews_Market/status/1335216555605585924",
+          "tweetLink": "twitter.com/i/web/status/1335216555605585924",
+          "profileImg": "https://pbs.twimg.com/profile_images/875608594103676929/AHBmxtyC_normal.jpg",
+          "username": "MatthewsFarmersMrkt:Matthews_Market",
+          "place": {
+            "name": "Matthews",
+            "full_name": "Matthews, NC",
+            "country_code": "US",
+            "country": "United States"
+          },
+          "geo": [
+            -80.72148,
+            35.11655
+          ]
+        },
+        {
+          "created_at": "Sat Dec 05 13:36:54 +0000 2020",
+          "text": "Just posted a photo @ Niavaran Street https://t.co/emVa2zkq5P",
+          "type": "T",
+          "embedLink": "twitter.com/Coffeeexe2/status/1335216580821651459",
+          "tweetLink": "twitter.com/i/web/status/1335216580821651459",
+          "profileImg": "https://pbs.twimg.com/profile_images/1319751293020327942/w-_aUi0o_normal.jpg",
+          "username": "Coffee_exe:Coffeeexe2",
+          "place": {
+            "name": "Islamic Republic of Iran",
+            "full_name": "Islamic Republic of Iran",
+            "country_code": "IR",
+            "country": "Islamic Republic of Iran"
+          },
+          "geo": [
+            51.45228043,
+            35.81574097
+          ]
+        },
+        {
+          "created_at": "Sat Dec 05 13:41:35 +0000 2020",
+          "text": "Acaba de publicar una foto en Zona colonial https://t.co/rkh1ZznkFc",
+          "type": "T",
+          "embedLink": "twitter.com/tomasjcabrera/status/1335217759433744390",
+          "tweetLink": "twitter.com/i/web/status/1335217759433744390",
+          "profileImg": "https://pbs.twimg.com/profile_images/1188894169982476288/jWbzt1-p_normal.jpg",
+          "username": "Tomas Cabrera:tomasjcabrera",
+          "place": {
+            "name": "anto Domingo de Guzmán",
+            "full_name": "anto Domingo de Guzmán, Dominican Republic",
+            "country_code": "DO",
+            "country": "Dominican Republic"
+          },
+          "geo": [
+            -69.88597368,
+            18.47357868
+          ]
+        },
+        {
+          "created_at": "Sat Dec 05 13:43:07 +0000 2020",
+          "text": "Just posted a photo @ Brooklyn, New York https://t.co/6kIjGcMgrZ",
+          "type": "T",
+          "embedLink": "twitter.com/103collection/status/1335218145263575040",
+          "tweetLink": "twitter.com/i/web/status/1335218145263575040",
+          "profileImg": "https://pbs.twimg.com/profile_images/1323237396264198146/UiKx4YDQ_normal.jpg",
+          "username": "103 Collection LLC:103collection",
+          "place": {
+            "name": "Brooklyn",
+            "full_name": "Brooklyn, NY",
+            "country_code": "US",
+            "country": "United States"
+          },
+          "geo": [
+            -73.95,
+            40.65
+          ]
+        },
+        {
+          "created_at": "Sat Dec 05 13:44:38 +0000 2020",
+          "text": "Vient de publier une photo à Casela Wildlife Park and Nature Reserve https://t.co/I1dnt97FuW",
+          "type": "T",
+          "embedLink": "twitter.com/photoyage/status/1335218527008157696",
+          "tweetLink": "twitter.com/i/web/status/1335218527008157696",
+          "profileImg": "https://pbs.twimg.com/profile_images/565239273566109696/LmcDbqh5_normal.png",
+          "username": "photoyage:photoyage",
+          "place": {
+            "name": "République de Maurice",
+            "full_name": "République de Maurice",
+            "country_code": "MU",
+            "country": "République de Maurice"
+          },
+          "geo": [
+            57.40420871,
+            -20.29081504
+          ]
+        },
+        {
+          "created_at": "Sat Dec 05 13:45:41 +0000 2020",
+          "text": "Az önce bir fotoğraf paylaştı @ Kadıköy https://t.co/UuECQErPH3",
+          "type": "T",
+          "embedLink": "twitter.com/HaziCeren/status/1335218791282843649",
+          "tweetLink": "twitter.com/i/web/status/1335218791282843649",
+          "profileImg": "https://pbs.twimg.com/profile_images/1273241993137848320/egLekOSg_normal.jpg",
+          "username": "bir dünya hcc:HaziCeren",
+          "place": {
+            "name": "İstanbul",
+            "full_name": "İstanbul, Türkiye",
+            "country_code": "TR",
+            "country": "Türkiye"
+          },
+          "geo": [
+            29.0644598,
+            40.98167996
+          ]
+        },
+        {
+          "created_at": "Sat Dec 05 13:45:43 +0000 2020",
+          "text": "Az önce bir fotoğraf paylaştı @ Taipei, Taiwan https://t.co/876CKLfSo8",
+          "type": "T",
+          "embedLink": "twitter.com/mrmimar_/status/1335218799713333254",
+          "tweetLink": "twitter.com/i/web/status/1335218799713333254",
+          "profileImg": "https://pbs.twimg.com/profile_images/1277291681549881347/SqClGsFr_normal.jpg",
+          "username": "mimar:mrmimar_",
+          "place": {
+            "name": "Taipei City",
+            "full_name": "Taipei City, Taiwan",
+            "country_code": "TW",
+            "country": "Taiwan"
+          },
+          "geo": [
+            121.5339,
+            25.0458
+          ]
+        },
+        {
+          "created_at": "Sat Dec 05 13:46:49 +0000 2020",
+          "text": "Acaba de publicar una foto en Plaza de toros Las Ventas https://t.co/2wI5Wy0tFm",
+          "type": "T",
+          "embedLink": "twitter.com/Ximelizabeth/status/1335219076411559937",
+          "tweetLink": "twitter.com/i/web/status/1335219076411559937",
+          "profileImg": "https://pbs.twimg.com/profile_images/1186275577361260544/bG4Gel03_normal.jpg",
+          "username": "Ximena Tirado:Ximelizabeth",
+          "place": {
+            "name": "Madrid",
+            "full_name": "Madrid, España",
+            "country_code": "ES",
+            "country": "España"
+          },
+          "geo": [
+            -3.66331054,
+            40.43194814
+          ]
+        },
+        {
+          "created_at": "Sat Dec 05 13:48:43 +0000 2020",
+          "text": "Just posted a photo @ Lone Pine, The Boutique Hotel by The Beach https://t.co/YGF8gLEwEY",
+          "type": "T",
+          "embedLink": "twitter.com/hipshutcom/status/1335219554562162690",
+          "tweetLink": "twitter.com/i/web/status/1335219554562162690",
+          "profileImg": "https://pbs.twimg.com/profile_images/1262399348500860930/ThVHFVFC_normal.jpg",
+          "username": "hipshut:hipshutcom",
+          "place": {
+            "name": "Mukim 17 (Batu Feringgi)",
+            "full_name": "Mukim 17 (Batu Feringgi), Pulau Pinang",
+            "country_code": "MY",
+            "country": "Malaysia"
+          },
+          "geo": [
+            100.25016484,
+            5.47605619
+          ]
+        },
+        {
+          "created_at": "Sat Dec 05 13:50:59 +0000 2020",
+          "text": "New landmark created! Discover interesting places around: https://t.co/10n9mAI9tI https://t.co/VAPcmtzkuf",
+          "type": "T",
+          "embedLink": "twitter.com/geolocationms/status/1335220124647874560",
+          "tweetLink": "twitter.com/i/web/status/1335220124647874560",
+          "profileImg": "https://pbs.twimg.com/profile_images/551822819403644928/ObInx5M7_normal.png",
+          "username": "GMS World:geolocationms",
+          "place": {
+            "name": "Macapá",
+            "full_name": "Macapá, Brazil",
+            "country_code": "BR",
+            "country": "Brazil"
+          },
+          "geo": [
+            -51.081436,
+            0.074556
+          ],
+          "imgLink": [
+            "https://pbs.twimg.com/media/EoenoNRXYAsxBCd.png"
+          ]
+        },
+        {
+          "created_at": "Sat Dec 05 13:52:33 +0000 2020",
+          "text": "Just posted a photo @ London, United Kingdom https://t.co/dE9cgNnMX5",
+          "type": "T",
+          "embedLink": "twitter.com/joseluisucar/status/1335220519235330050",
+          "tweetLink": "twitter.com/i/web/status/1335220519235330050",
+          "profileImg": "https://pbs.twimg.com/profile_images/1193777537660444672/YxH8ucRO_normal.jpg",
+          "username": "Jose Ucar:joseluisucar",
+          "place": {
+            "name": "City of London",
+            "full_name": "City of London, London",
+            "country_code": "GB",
+            "country": "United Kingdom"
+          },
+          "geo": [
+            -0.1094,
+            51.5141
+          ]
+        },
+        {
+          "created_at": "Sat Dec 05 13:52:38 +0000 2020",
+          "text": "Just posted a photo @ United Kingdom https://t.co/v2Y4LCN9wy",
+          "type": "T",
+          "embedLink": "twitter.com/jessyplant/status/1335220540240523264",
+          "tweetLink": "twitter.com/i/web/status/1335220540240523264",
+          "profileImg": "https://pbs.twimg.com/profile_images/687629010696798208/QkBcFq8N_normal.jpg",
+          "username": "Jessy:jessyplant",
+          "place": {
+            "name": "Yorkshire and The Humber",
+            "full_name": "Yorkshire and The Humber, England",
+            "country_code": "GB",
+            "country": "United Kingdom"
+          },
+          "geo": [
+            -2,
+            54
+          ]
+        },
+        {
+          "created_at": "Sat Dec 05 13:54:43 +0000 2020",
+          "text": "Just posted a photo @ London, United Kingdom https://t.co/6lsIdLnTNv",
+          "type": "T",
+          "embedLink": "twitter.com/samira_mian/status/1335221064591421451",
+          "tweetLink": "twitter.com/i/web/status/1335221064591421451",
+          "profileImg": "https://pbs.twimg.com/profile_images/732913877223112704/w_mWGaVr_normal.jpg",
+          "username": "Samira Mian Islamic Geometry:samira_mian",
+          "place": {
+            "name": "City of London",
+            "full_name": "City of London, London",
+            "country_code": "GB",
+            "country": "United Kingdom"
+          },
+          "geo": [
+            -0.1094,
+            51.5141
+          ]
+        },
+        {
+          "created_at": "Sat Dec 05 13:55:00 +0000 2020",
+          "text": "Just posted a photo @ Beer Hound Brewery https://t.co/Efwt51rSb5",
+          "type": "T",
+          "embedLink": "twitter.com/BeerHoundBrewer/status/1335221135722631169",
+          "tweetLink": "twitter.com/i/web/status/1335221135722631169",
+          "profileImg": "https://pbs.twimg.com/profile_images/579632085910048768/GEqo06sM_normal.jpg",
+          "username": "Beer Hound Brewery:BeerHoundBrewer",
+          "place": {
+            "name": "Culpeper",
+            "full_name": "Culpeper, VA",
+            "country_code": "US",
+            "country": "United States"
+          },
+          "geo": [
+            -77.99382628,
+            38.47195613
+          ]
+        },
+        {
+          "created_at": "Sat Dec 05 13:55:24 +0000 2020",
+          "text": "Just posted a photo @ Quarantine Nola 2020 https://t.co/EDWXrBVmYF",
+          "type": "T",
+          "embedLink": "twitter.com/princesshoped/status/1335221236473925639",
+          "tweetLink": "twitter.com/i/web/status/1335221236473925639",
+          "profileImg": "https://pbs.twimg.com/profile_images/1320365877636849670/J6JZ7jQE_normal.jpg",
+          "username": "Little Red Corvette:princesshoped",
+          "place": {
+            "name": "New Orleans",
+            "full_name": "New Orleans, LA",
+            "country_code": "US",
+            "country": "United States"
+          },
+          "geo": [
+            -90.070864,
+            29.948479
+          ]
+        },
+        {
+          "created_at": "Sat Dec 05 13:55:31 +0000 2020",
+          "text": "Just posted a photo @ Glow Secret https://t.co/JVNEhAOkmW",
+          "type": "T",
+          "embedLink": "twitter.com/glowsecret_/status/1335221265817223169",
+          "tweetLink": "twitter.com/i/web/status/1335221265817223169",
+          "profileImg": "https://pbs.twimg.com/profile_images/1299319168618041345/ZR7gg7oo_normal.jpg",
+          "username": "GLOW SECRET:glowsecret_",
+          "place": {
+            "name": "Tanga",
+            "full_name": "Tanga, Tanzania",
+            "country_code": "TZ",
+            "country": "Tanzania"
+          },
+          "geo": [
+            38.9333,
+            -4.95
+          ]
+        },
+        {
+          "created_at": "Sat Dec 05 13:56:05 +0000 2020",
+          "text": "Just posted a photo @ Toronto, Ontario https://t.co/xCnjaV4rjZ",
+          "type": "T",
+          "embedLink": "twitter.com/ShopApanaki/status/1335221408406904835",
+          "tweetLink": "twitter.com/i/web/status/1335221408406904835",
+          "profileImg": "https://pbs.twimg.com/profile_images/756108147677339652/SZDp2D2T_normal.jpg",
+          "username": "Apnki:ShopApanaki",
+          "place": {
+            "name": "Toronto",
+            "full_name": "Toronto, Ontario",
+            "country_code": "CA",
+            "country": "Canada"
+          },
+          "geo": [
+            -79.3872,
+            43.648
+          ]
+        },
+        {
+          "created_at": "Sat Dec 05 13:56:12 +0000 2020",
+          "text": "Just posted a photo @ 千葉公園　Chiba Park https://t.co/9S6Rg9hBGz",
+          "type": "T",
+          "embedLink": "twitter.com/KoheiMaeda615/status/1335221437855100930",
+          "tweetLink": "twitter.com/i/web/status/1335221437855100930",
+          "profileImg": "https://pbs.twimg.com/profile_images/1291224118126206976/sf0aP5e3_normal.jpg",
+          "username": "前田公平:KoheiMaeda615",
+          "place": {
+            "name": "Chiba City Inage Ward",
+            "full_name": "Chiba City Inage Ward, Chiba",
+            "country_code": "JP",
+            "country": "Japan"
+          },
+          "geo": [
+            140.11699716,
+            35.61853589
+          ]
+        }
+      ]
+    }
+  ]
+}

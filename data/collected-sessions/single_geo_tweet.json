@@ -1,0 +1,35 @@
+{
+  "query": {
+    "contains": ["Testing yoyoyo"],
+    "hashtags": ["hash1", "hash2"],
+    "author": " Mr Author"
+  },
+  "tweetChunks": [
+    {
+      "tweets": [
+        {
+          "created_at": "Fri Dec 04 20:17:51 +0000 2020",
+          "text": "Ещё по одной (@ свободная рюмочная in Санкт-Петербург) https://t.co/UH5QeRSzxV https://t.co/HmstG8JVRa",
+          "type": "T",
+          "embedLink": "twitter.com/djakonov/status/1334955094761218050",
+          "tweetLink": "twitter.com/i/web/status/1334955094761218050",
+          "profileImg": "https://pbs.twimg.com/profile_images/766872294023200768/i8v8rJ9p_normal.jpg",
+          "username": "Михаил Дьяконов:djakonov",
+          "place": {
+            "name": "Санкт-Петербург",
+            "full_name": "Санкт-Петербург, Россия",
+            "country_code": "RU",
+            "country": "Россия"
+          },
+          "geo": [
+            30.321498,
+            59.936292
+          ],
+          "imgLink": [
+            "https://pbs.twimg.com/media/Eoa2lZwXIAES1Eg.jpg"
+          ]
+        }
+      ]
+    }
+  ]
+}
