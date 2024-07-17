@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Twitter tracker</title>
+
+    <!--Link stylesheet to the html's page-->
+    <link rel="stylesheet" href="../../node_modules/mapbox-gl/src/css/mapbox-gl.css" />
+    <link rel="stylesheet" href="../../node_modules/bootstrap/dist/css/bootstrap.css" />
+    <link rel="stylesheet" href="../../node_modules/chart.js/dist/Chart.css" />
+    <link rel="stylesheet" href="css/indexStyle.css" />
+
+    <!--Setting Poppins as default font style-->
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap" rel="stylesheet" />
+
+    <!--Libraries-->
+    <script src='https://unpkg.com/@turf/turf/turf.min.js'></script>
+
+    <!--Front-end logic-->
+    <script type="text/javascript" src="renderer.js"></script>
+
+    <!--Ensures proper scaling with bootstrap on all devices-->
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto+Mono">
+    <script>
+        $(document).ready(function () {
+            $('#popover_ins_a').popover({
+                title: "<h2>Advanced search instructions</h2>",
+                content: `
+                    you may compose complex queries using the following operators on textual
+                    filters(that is the first four from the left):
+                    <ul>
+                        <li>Logical operators, i.e. and,or,not are expressible with
+                            empty space, OR and - respectively</li>
+                        <li>Double quotes, to specify an exact sentence as filter </li>
+                        <li>Round brackets, to avoid ambiguity in your formulas(by default or has
+                         higher priority than and)</li>
+                    </ul>
+                    Here's a quick instance:<br>
+                    ("Attack on titan" season) OR anime<br>
+                    Note: this example uses keywords(because double quotes would make no
+                    sense otherwise) but this works for other textual
+                    filters as well.<br>
+                    You may compose your queries just from the keywords field, you just
+                    need some extra operators, which are:
+                    <ul>
+                        <li>#,@ and from:, prepend them to specify a hashtag,a mention and a user respectively.</li>
+                        <li>filter:safe and filter:media for sensitive and media filters.</li>
+                    </ul>
+                    Note: language and coordinates cannot be specified that way.<br>
+                    Quick instance:<br> trump -from:AOC media:filter #politics<br>
+                    `,
+                html: true,
+                animation: true,
+                trigger: "focus",
+                placement: "bottom",
+                template: `
+                    <div class="popover popover-medium" role="tooltip">
+                        <div class="arrow"></div>
+                        <div class="popover-header"></div>
+                        <div class="popover-body"></div>
+                    </div>
+                        `
+            });
+            $('#popover_tips_a').popover({
+                title: "<h2>Advanced search tips</h2>",
+                content: `
+                    Since complex queries often fail, here is some tips to help you minimize that:
+                    <ul>
+                        <li>Don't prepend - to round brackets, and in general pay attention to that
+                             operator, because it is an insidious one. </li>
+                        <li>the search is case insensitive, which means "computer science sucks" and
+                            "CoMpUtEr ScIEnCE sUcKS" are the same. </li>
+                        <li>if the query isn't well formatted, Twitter may just ignore some pieces of it,
+                            thus a result being shown doesn't prove query's syntax is correct,
+                            and most importantly, it's semantics may not be the one you meant.</li>
+                        <li>if you choose to use the extra operators then avoid the buttons which would
+                             do the same, to prevent overlapping.<br>You may also use a combination of the
+                             two techniques, as long as you stay consistent </li>
+                    </ul>
+                    `,
+                html: true,
+                animation: true,
+                trigger: "focus",
+                placement: "bottom",
+                template: `
+                    <div class="popover popover-medium" role="tooltip">
+                        <div class="arrow"></div>
+                        <div class="popover-header"></div>
+                        <div class="popover-body"></div>
+                    </div>
+                        `
+            });
+        });
+
+    </script>
+    <style>
+        .popover-medium {
+            max-width: 90vw;
+            background-color: #282828;
+        }
+
+        .arrow::after {
+            border-bottom-color: #282828 !important;
+        }
+
+        .popover-header::before {
+            display: none !important;
+        }
+
+        .popover-header {
+            color: #1DA1F2;
+            background-color: inherit;
+
+        }
+
+        .popover-body {
+            color: #1DA1F2;
+            background-color: inherit;
+        }
+    </style>
+</head>
+
+<body>
+
+    <link rel="stylesheet"
+        href="https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v4.5.1/mapbox-gl-geocoder.css"
+        type="text/css" />
+    <div class="modal" style="background-color: transparent; border: none;" id="wait_modal" data-keyboard="false"
+        data-backdrop="static" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-sm modal-dialog-centered" style="background-color: transparent; border: none;"
+            role="document">
+            <div class="modal-content" style="background-color: transparent; border: none;">
+                <img style="width: 75%;" src="img/loading.gif" alt="loading.." />
+            </div>
+        </div>
+    </div>
+    <div class="fluid-container main-container vert-flex-container" style="height: 100vh">
+
+        <div id="controls-header" style="flex: 0 0 auto">
+            <div id="active-filters-collapse" class="collapse header-bar horizontal-main-padding">
+            </div>
+            <!--Filter controls-->
+            <div class="navbar navbar-expand-lg navbar-light bg-light header-bar horizontal-main-padding">
+
+                <div id="twitter-logo">
+                    <img src="img/tw-logo.png" alt="App logo" id="tw-logo" />
+                </div>
+
+                <div id="add-filter-button-group" class="btn-group" role="group">
+                    <button id="one-shot-search-button" class="btn btn-outline-primary btn-default" type="button"
+                        title="Search"><img class="icon-nav" alt="Twitter icon" src="img/search.png"> Search </button>
+                </div>
+                <a href="#" id='popover_ins_a'><img alt="instructions" src="img/help.png"></a>
+                <a href="#" id='popover_tips_a'><img alt="tips" src="img/info.png"></a>
+
+                <button id="stream-search-button" class="btn btn-outline-primary btn-default" type="button"
+                    title="Search">Stream</button>
+                <!--Save/Load buttons-->
+                <div class="nav ml-auto btn-group">
+                    <button id="save-session-btn" class="btn btn-outline-primary btn-default" type="button"
+                        title="Save"><img class="icon-nav" alt="Save" src="img/save.png"></button>
+                    <button id="load-session-btn" class="btn btn-outline-primary btn-default" type="button"
+                        title="Load"><img class="icon-nav" alt="Load" src="img/load.png"></button>
+                    <button id="post-btn" class="btn btn-outline-primary btn-default" type="button"
+                        title="Post"></button>
+                </div>
+            </div>
+            <div id="filter-form-collapse" class="collapse header-bar horizontal-main-padding">
+            </div>
+        </div>
+
+        <!--Main Panel-->
+        <div style="flex: 1 1 auto; overflow-y: hidden">
+            <div id="fill-panel" class="row no-gutters" style="height: 100%; overflow-y: auto">
+                <div class="col-4 min-width-250-sm" style="height: 100%">
+
+                    <!--                        Tweet List-->
+                    <div id="tweetList" class="vert-flex-container">
+                        <h3 style="flex: 0 0 1"><span id="tweets-number-text"></span> tweets</h3>
+                        <button id="load-more-btn" class="btn btn-primary">Load more</button>
+                        <div style="flex:  1 1 auto">
+                            <ul id="tweetViewer">
+                            </ul>
+                        </div>
+                        <!---->
+                    </div>
+                </div>
+
+                <div id="main-panel" class="col-8 vert-flex-container" style="height: 100%;">
+
+                    <div class="navContainer" style="flex: 0 0 auto">
+                        <nav>
+                            <ul id="dataShortcut">
+                                <button id="map-tab">Map</button>
+                                <button id="word-cloud-tab">Word cloud</button>
+                                <button id="time-chart-tab">Time chart</button>
+                            </ul>
+                        </nav>
+                    </div>
+
+                    <div id="dataVisualization" style="flex: 1 1 auto">
+                        <div id="time-chart-container" class="data-vis-content" style="overflow: hidden">
+                            <canvas id="timeChart" class="data-vis-canvas"></canvas>
+                        </div>
+                        <div id="map-container" class="data-vis-content">
+                            <div id="map"></div>
+                            <div id="button-container" value="0"><button id="switchMap"></button></div>
+                        </div>
+                        <div id="word-cloud-container" class="data-vis-content" style="display: grid">
+                            <canvas id="word-cloud-canvas" class="data-vis-canvas"></canvas>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Modal -->
+    <div class="modal fade" id="popup_modal" tabindex="-1">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div id="popup-modal-header" class="modal-header">
+                </div>
+                <div id="popup_modal-body" class="modal-body">
+                </div>
+            </div>
+        </div>
+    </div>
+    <script
+        src="https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v4.5.1/mapbox-gl-geocoder.min.js"></script>
+</body>
+
+</html>
